@@ -1,0 +1,404 @@
+State,County,fips,ypllrate,pfairpoor,phydays,plbw,mhi,ppov,minestat,minestatc
+Tennessee,Shelby,47157,10334,16,3.5,11.1,43859,20.629999,None,None
+Tennessee,Hardeman,47069,9081,27,3.8,12.2,31747,20.809999,None,None
+Tennessee,Hardin,47071,11733,23,4.8000002,9.3999996,31883,20.540001,None,None
+Tennessee,Fayette,47047,8289,13,3.7,9.8000002,53935,13.93,None,None
+Tennessee,McNairy,47109,11781,23,4.0999999,8.5,33139,20.75,None,None
+Kentucky,Union,21225,8013,23,5.4000001,10.7,41209,22.23,Traditional,Traditional
+Kentucky,Caldwell,21033,10063,18,3.5999999,9.1000004,36255,15.91,Traditional,Traditional
+Kentucky,Lyon,21143,8491,21,4,6.0999999,39588,15.43,None,None
+Kentucky,Crittenden,21055,10603,33,7.0999999,8,33966,16.370001,None,None
+Kentucky,Livingston,21139,9732,,7.5,8.6000004,38608,13.59,None,None
+Kentucky,Ballard,21007,8788,23,5.9000001,11.8,41776,16.969999,None,None
+Kentucky,McCracken,21145,9063,21,4.3000002,9.1000004,41585,15.79,None,None
+Kentucky,Marshall,21157,8579,21,4.4000001,8.3000002,43825,11.35,None,None
+Kentucky,Trigg,21221,10035,24,4.8000002,11.1,42387,10.61,None,None
+Tennessee,Stewart,47161,8185,,4.9000001,10.9,40329,16.459999,None,None
+Tennessee,Weakley,47183,8097,19,4.1999998,7.9000001,34782,20.17,None,None
+Tennessee,Benton,47005,15114,22,5.3000002,10.1,32346,21.360001,None,None
+Tennessee,Gibson,47053,11358,25,4.4000001,8.3000002,35711,17.08,None,None
+Tennessee,Dyer,47045,11006,23,4.3000002,10.6,36735,18.530001,None,None
+Tennessee,Lauderdale,47097,11053,22,5.8000002,11.8,32741,22.33,None,None
+Tennessee,Perry,47135,11348,24,4.6999998,6.8000002,31486,30.25,None,None
+Tennessee,Chester,47023,7654,20,3.4000001,8.8999996,39492,18.49,None,None
+Tennessee,Tipton,47167,9229,26,4.5,9.6999998,47824,13.92,None,None
+Kentucky,Carlisle,21039,9961,,6.5,9.3999996,38182,18.610001,None,None
+Kentucky,Graves,21083,9234,24,4.4000001,8.1999998,34811,17.74,None,None
+Kentucky,Hickman,21105,7910,,6.8000002,5.9000001,39087,15.42,None,None
+Kentucky,Calloway,21035,6451,20,3.4000001,6.9000001,39038,22.85,None,None
+Kentucky,Fulton,21075,12303,,6.8000002,11.2,30662,29.83,None,None
+Tennessee,Lake,47095,10649,17,,13.7,27142,26.9,None,None
+Tennessee,Obion,47131,10104,19,4.8000002,9.6000004,38530,22.68,None,None
+Tennessee,Henry,47079,11050,27,4.6999998,8.8999996,36247,19.809999,None,None
+Tennessee,Carroll,47017,13963,18,3.8,9.1999998,34566,19.76,None,None
+Tennessee,Crockett,47033,9106,21,3.8,7.4000001,37945,19.33,None,None
+Tennessee,Decatur,47039,12196,30,6.1999998,7.0999999,35134,19.450001,None,None
+Tennessee,Henderson,47077,10588,18,3.7,8.8999996,36347,19.42,None,None
+Tennessee,Haywood,47075,10547,26,3.9000001,12.3,34310,19.629999,None,None
+Tennessee,Madison,47113,9260,21,3.5999999,10.5,40670,19.379999,None,None
+Kentucky,Greenup,21089,9128,27,5.5999999,9.3999996,40752,15.86,Traditional,Traditional
+Virginia,Wise,51195,10454,26,6.5,8.8000002,36789,21.98,Removal,Removal
+Kentucky,Warren,21227,7204,20,4.5,8.5,41001,17.43,None,None
+Kentucky,Russell,21207,8220,23,4.5,8.1999998,29478,24.59,None,None
+Kentucky,Metcalfe,21169,10853,31,4.6999998,9.8000002,28538,23.709999,None,None
+Kentucky,Barren,21009,8492,25,4.5999999,9.3000002,38000,23.92,None,None
+Kentucky,Christian,21047,9376,24,4.0999999,9,36542,20.24,Traditional,Traditional
+Virginia,Russell,51167,10449,29,6.5999999,9.1000004,34460,19.48,Removal,Removal
+Tennessee,Sequatchie,47153,11234,30,7.5,10.5,38082,16.620001,Traditional,Traditional
+Kentucky,Todd,21219,8332,27,6.1999998,9.3000002,36173,18.030001,None,None
+Kentucky,Logan,21141,9484,22,4.3000002,7.8000002,37316,17.280001,None,None
+Kentucky,Allen,21003,8525,26,5.1999998,7.9000001,35617,19.110001,None,None
+Tennessee,Macon,47111,11337,22,4.9000001,7.9000001,33036,17.940001,None,None
+Tennessee,Cheatham,47021,8552,20,3.3,8.6999998,51106,11.46,None,None
+Tennessee,Davidson,47037,8664,15,3,9.3000002,43825,16.360001,None,None
+Tennessee,Houston,47083,9410,,,7.0999999,35739,15.94,None,None
+Tennessee,Morgan,47129,10005,,6.4000001,9.1999998,35322,21.959999,Traditional,Traditional
+Tennessee,Wilson,47189,7005,16,5,8.6999998,56270,8.1499996,None,None
+Tennessee,Dickson,47043,9979,23,4.3000002,8.3000002,43353,14.26,None,None
+Tennessee,Putnam,47141,8663,16,3.8,7.5999999,35225,19.540001,None,None
+Tennessee,Humphreys,47085,8781,,4.0999999,8.6000004,38300,17.969999,None,None
+Tennessee,Loudon,47105,8500,17,4.0999999,8.1999998,47206,11.94,None,None
+Tennessee,Coffee,47031,10182,18,4.3000002,8.3000002,39321,14.14,None,None
+Tennessee,McMinn,47107,9752,23,4.9000001,9.3000002,38183,19.639999,None,None
+Tennessee,Grundy,47061,13947,,6.5,10,27494,24.280001,None,None
+Tennessee,Rutherford,47149,6919,18,3.5999999,8.3000002,51815,11.8,None,None
+Tennessee,Williamson,47187,3914,7,1.5,6.9000001,82273,4.3499999,None,None
+Tennessee,Hickman,47081,11264,23,5.3000002,9,35948,18.09,None,None
+Tennessee,Maury,47119,9072,17,4.1999998,9.3000002,45445,12.41,None,None
+Tennessee,Marshall,47117,9928,22,5.5999999,8.6000004,40052,14.67,None,None
+Tennessee,Bedford,47003,9457,20,4.5,8.3999996,39057,15.81,None,None
+Tennessee,Lewis,47101,11415,21,5,9.1000004,33495,20.280001,None,None
+Kentucky,Simpson,21213,8438,16,4.4000001,7.9000001,40905,15.54,None,None
+Tennessee,Robertson,47147,8809,17,3.4000001,8,51074,11.59,None,None
+Tennessee,Sumner,47165,7007,17,3.5,7.8000002,48502,9.4799995,None,None
+Tennessee,Montgomery,47125,8292,19,5.3000002,8.1999998,47258,13.54,None,None
+Tennessee,Trousdale,47169,11823,,,10.2,35824,15.87,None,None
+Kentucky,Wayne,21231,9438,29,5.5,9.3999996,26683,24.58,None,None
+Kentucky,McCreary,21147,10058,43,8.1000004,8.8999996,24691,37.48,None,None
+Kentucky,Clinton,21053,13027,28,5.8000002,8.6999998,27133,23.030001,None,None
+Tennessee,Clay,47027,13317,22,7.1999998,7.3000002,28014,26.719999,None,None
+Tennessee,Pickett,47137,11742,,,8.1999998,30016,17.23,None,None
+Tennessee,Scott,47151,10389,27,4.5,7.8000002,29792,22.309999,Traditional,Traditional
+Tennessee,Overton,47133,10116,33,6.5,7.4000001,33230,17,None,None
+Tennessee,Jackson,47087,11213,,3.7,7.8000002,31093,19.66,None,None
+Tennessee,Smith,47159,10540,20,3.5,8.5,39330,14.9,None,None
+Kentucky,Cumberland,21057,13094,26,5.9000001,10.1,27382,21.530001,None,None
+Kentucky,Monroe,21171,9964,23,5.1999998,8.6000004,28074,24.26,None,None
+Tennessee,Fentress,47049,12982,,7,8.8999996,29088,21.799999,Traditional,Traditional
+Tennessee,Cumberland,47035,9287,26,4.4000001,9.3000002,36214,15.23,Traditional,Traditional
+Tennessee,Roane,47145,9604,26,4.5999999,8.8999996,42620,15.04,None,None
+Tennessee,Cannon,47015,7918,18,4,9,36246,15.91,None,None
+Tennessee,Warren,47177,9043,26,4.8000002,8.3000002,33265,22.889999,None,None
+Tennessee,Rhea,47143,11870,23,5.3000002,9.8999996,36308,21.860001,None,None
+Tennessee,Van Buren,47175,8677,23,4,9.3000002,31455,19,None,None
+Tennessee,Bledsoe,47007,8505,26,7.5,7.8000002,33366,20.299999,Traditional,Traditional
+Tennessee,Meigs,47121,12712,,5.4000001,7.1999998,36584,16.99,None,None
+Tennessee,DeKalb,47041,11617,22,3.4000001,8.6999998,35726,17.549999,None,None
+Tennessee,White,47185,9668,24,5.8000002,8.5,33251,17.4,None,None
+Kentucky,Owen,21187,5368,28,4.6999998,8,40413,16.389999,None,None
+Kentucky,Breckinridge,21027,9459,25,4.4000001,8.6000004,35428,17.530001,None,None
+Kentucky,Hardin,21093,7238,20,4.6999998,7.9000001,44203,13.93,None,None
+Kentucky,Hancock,21091,7957,20,3.0999999,6.8000002,46729,12.75,None,None
+Kentucky,Nelson,21179,8032,19,4,8.6999998,43330,10.91,None,None
+Kentucky,Henderson,21101,9243,19,4.6999998,11.2,41309,18.610001,Traditional,Traditional
+Kentucky,Mercer,21167,9765,15,4,9.6000004,41985,16,None,None
+Kentucky,Daviess,21059,7986,19,4.0999999,8.5,41878,16.08,Traditional,Traditional
+Kentucky,Washington,21229,8515,13,2.8,6.4000001,38618,16.620001,None,None
+Kentucky,Pulaski,21199,9229,24,4.4000001,8.8999996,33026,23.610001,None,None
+Kentucky,Ohio,21183,9344,25,4.8000002,7.5,35975,20.540001,Traditional,Traditional
+Kentucky,McLean,21149,11146,23,6,11.1,38580,16.93,Traditional,Traditional
+Kentucky,Webster,21233,10856,23,3.7,10.1,41516,22.15,Traditional,Traditional
+Kentucky,Grayson,21085,9433,27,5.4000001,8.1000004,32970,25.33,None,None
+Kentucky,Hopkins,21107,9738,22,4.5,9.8999996,39738,17.92,Traditional,Traditional
+Kentucky,Muhlenberg,21177,11038,22,5,9.1000004,37614,17.379999,Traditional,Traditional
+Kentucky,Butler,21031,11100,19,5.8000002,7.6999998,35162,19.4,Traditional,Traditional
+Kentucky,Edmonson,21061,6702,29,6.3000002,8.3000002,34849,18.75,None,None
+Kentucky,Meade,21163,7302,18,4.8000002,7.8000002,46671,11.67,None,None
+Kentucky,Henry,21103,10573,17,3.8,8.3999996,40806,19.190001,None,None
+Kentucky,Scott,21209,6510,17,4.4000001,8.1999998,56791,11.99,None,None
+Kentucky,Jefferson,21111,8405,17,4,9.3999996,42535,14.78,None,None
+Kentucky,Franklin,21073,6892,16,3.7,9,46323,12.28,None,None
+Kentucky,Shelby,21211,6628,17,4.5,8.6000004,51845,12.59,None,None
+Kentucky,Spencer,21215,6418,16,2.5999999,7.9000001,62579,8.4399996,None,None
+Kentucky,Bullitt,21029,6382,20,5.5,8.3999996,51409,10.58,None,None
+Kentucky,Jessamine,21113,7762,14,3.5999999,8.3000002,43503,17.690001,None,None
+Kentucky,Oldham,21185,5209,7,2.4000001,8.1999998,75724,5.4899998,None,None
+Kentucky,Fayette,21067,7043,14,3.5,8.6000004,45820,17.77,None,None
+Kentucky,Woodford,21239,6971,13,2.2,8.3000002,55962,14.19,None,None
+Kentucky,Anderson,21005,8205,20,3.8,8.1999998,52660,13.85,None,None
+Kentucky,Garrard,21079,7706,19,5.5,10.1,40834,16.67,None,None
+Kentucky,Larue,21123,8660,21,4.5999999,6.9000001,37863,15.46,None,None
+Kentucky,Marion,21155,8066,21,5.0999999,8.6999998,36816,22.799999,None,None
+Kentucky,Lincoln,21137,9544,32,7.4000001,9,32864,24.07,None,None
+Kentucky,Casey,21045,10098,28,6.6999998,8.6999998,26612,26.6,None,None
+Kentucky,Taylor,21217,8953,23,4,7.5,35962,24.280001,None,None
+Kentucky,Green,21087,8753,26,5.8000002,8.6000004,31423,18.190001,None,None
+Kentucky,Hart,21099,8750,26,5.5999999,7.4000001,31733,21.4,None,None
+Kentucky,Adair,21001,8424,35,5.4000001,8.8999996,30177,21.610001,None,None
+Kentucky,Boyle,21021,7660,15,4.0999999,9.1999998,39241,14.35,None,None
+Kentucky,Lewis,21135,9690,30,5.1999998,8.8000002,29453,28.1,None,None
+West Virginia,Putnam,54079,7103,17,4.3000002,8.1999998,52942,9.1599998,None,None
+West Virginia,Clay,54015,10526,32,6.1999998,9.1000004,31232,27.1,Removal,Removal
+Kentucky,Harrison,21097,9976,19,3.8,10.2,42124,17.209999,None,None
+Kentucky,Lawrence,21127,11381,27,5.5,15.3,33313,26.75,Removal,Removal
+Kentucky,Morgan,21175,7915,29,5.5999999,7,30502,24.74,Traditional,Traditional
+West Virginia,Logan,54045,13968,32,7.0999999,11.7,33202,23.27,Removal,Removal
+Kentucky,Johnson,21115,11537,31,6.9000001,10.6,34260,22.940001,Removal,Removal
+West Virginia,Raleigh,54081,10181,28,5.5999999,9.6000004,37915,17.6,Removal,Removal
+West Virginia,Mingo,54059,15304,37,7.5,11.7,31915,28.700001,Removal,Removal
+Kentucky,Martin,21159,14684,36,7.3000002,12.2,29575,26.26,Removal,Removal
+Kentucky,Powell,21197,11952,23,5.6999998,9.8999996,32041,21.91,None,None
+Kentucky,Madison,21151,7285,18,4.3000002,9,41945,19.030001,None,None
+Kentucky,Magoffin,21153,12443,44,7.5,11.5,28943,27.639999,Removal,Removal
+Kentucky,Wolfe,21237,15349,38,6.3000002,9.6000004,25968,32.34,Removal,Removal
+Kentucky,Estill,21065,11854,,4.0999999,9.1000004,29486,32.700001,Traditional,Traditional
+Kentucky,Rockcastle,21203,10411,29,6.5999999,7.4000001,30900,21.02,None,None
+Kentucky,Leslie,21131,10780,40,8.3000002,9.3000002,30597,35.560001,Removal,Removal
+Kentucky,Floyd,21071,12798,38,7.9000001,10.5,28589,31.690001,Removal,Removal
+Kentucky,Lee,21129,13085,33,7.0999999,9.3000002,24908,33.549999,Removal,Removal
+Kentucky,Breathitt,21025,13315,33,6.3000002,8.8999996,28045,35.540001,Removal,Removal
+Kentucky,Jackson,21109,12070,36,7.3000002,9.8000002,26462,30.389999,Traditional,Traditional
+Kentucky,Owsley,21189,15806,,11.2,11.3,22335,34.68,Traditional,Traditional
+Kentucky,Knott,21119,12438,31,6.0999999,10.8,30693,33.240002,Removal,Removal
+Kentucky,Perry,21193,13840,33,6.9000001,10.4,31604,27.08,Removal,Removal
+Kentucky,Letcher,21133,13262,35,7.3000002,10.4,33410,32.439999,Removal,Removal
+Kentucky,Clay,21051,11018,38,8.5,11,24081,38.630001,Traditional,Traditional
+Kentucky,Laurel,21125,9713,30,5.9000001,8.6000004,34712,23.65,Traditional,Traditional
+Kentucky,Rowan,21205,9708,24,4.8000002,6.5999999,35145,25.99,None,None
+Kentucky,Bourbon,21017,8980,17,3.8,9,39219,17.709999,None,None
+Kentucky,Bath,21011,12722,27,4.6999998,9.1000004,32091,21.030001,None,None
+Kentucky,Elliott,21063,10677,32,5.4000001,11,29335,30.290001,Traditional,Traditional
+Kentucky,Montgomery,21173,10482,25,5.0999999,10.3,37678,20.719999,None,None
+Kentucky,Clark,21049,8775,25,7.5,9.8999996,45016,15.62,None,None
+Kentucky,Menifee,21165,10288,29,6.4000001,8.3999996,28061,22.889999,None,None
+Kentucky,Robertson,21201,,20,5.5999999,,32844,27.120001,None,None
+Kentucky,Fleming,21069,10480,27,5.5,7.9000001,33141,17.76,None,None
+Kentucky,Nicholas,21181,13938,,,11.3,36306,25.780001,None,None
+Kentucky,Carter,21043,11228,33,5.8000002,8.8000002,34303,25.940001,None,None
+Kentucky,Boyd,21019,9953,24,5.3000002,11.1,38029,19.110001,None,None
+West Virginia,Kanawha,54039,10278,20,4.5999999,9.8000002,43110,17.120001,Removal,Removal
+West Virginia,Cabell,54011,11787,21,4.8000002,11.3,36274,22.530001,None,None
+West Virginia,Wayne,54099,9720,28,6.3000002,12.9,36360,22.309999,Removal,Removal
+West Virginia,Lincoln,54043,12225,32,6.3000002,10,34119,25.1,Removal,Removal
+West Virginia,Fayette,54019,11031,22,4.9000001,9.5,30856,19.98,Removal,Removal
+West Virginia,Boone,54005,13487,28,6.8000002,9.5,38126,24.35,Removal,Removal
+West Virginia,Wyoming,54109,14591,38,7.8000002,10.8,35872,21.74,Removal,Removal
+Kentucky,Pike,21195,13251,36,7.9000001,10.6,30302,26.450001,Removal,Removal
+West Virginia,Mercer,54055,12077,25,5.5999999,12.3,32366,19.809999,Removal,Removal
+West Virginia,McDowell,54047,18680,35,7.0999999,12.5,24133,33.310001,Removal,Removal
+Virginia,Buchanan,51027,12574,35,7.5,8.6000004,29712,27.66,Removal,Removal
+Virginia,Tazewell,51185,11153,27,6,10.7,35485,16.15,Removal,Removal
+Virginia,Bland,51021,9485,,,9.1000004,39975,8.4300003,None,None
+Virginia,Dickenson,51051,11613,33,7.8000002,7.6999998,32955,24.26,Removal,Removal
+Virginia,Wythe,51197,8714,24,4.8000002,9.1999998,37624,15.62,None,None
+Kentucky,Knox,21121,12526,34,7.5999999,9.6999998,25965,33.330002,Traditional,Traditional
+Virginia,Scott,51169,10964,24,4.9000001,8.1000004,33797,18.559999,Traditional,Traditional
+Tennessee,Greene,47059,9485,21,5.1999998,8.6000004,34649,17,None,None
+Tennessee,Anderson,47001,9399,21,5.5999999,9.1000004,45917,16.18,Traditional,Traditional
+Tennessee,Unicoi,47171,9918,21,4.8000002,7.0999999,35976,21.059999,None,None
+Tennessee,Monroe,47123,9464,,4.9000001,8.6999998,35833,19.25,None,None
+Tennessee,Knox,47093,7981,16,3.8,9,44074,15.21,None,None
+Tennessee,Jefferson,47089,9908,,3.9000001,8.6000004,37279,14.05,None,None
+Tennessee,Cocke,47029,11409,22,5.5999999,10.1,28832,24.889999,None,None
+Tennessee,Sevier,47155,9182,20,4.1999998,9.1000004,39349,15.03,None,None
+Tennessee,Blount,47009,7941,17,2.9000001,8.3000002,41736,11.74,None,None
+Kentucky,Harlan,21095,13662,39,8,10.6,28503,36.23,Removal,Removal
+Virginia,Lee,51105,9548,28,5.5999999,9,31116,23.969999,Traditional,Traditional
+Tennessee,Hancock,47067,11147,,5.1999998,9.3999996,24891,25.790001,None,None
+Tennessee,Claiborne,47025,10641,30,5.3000002,9.6999998,29227,23.639999,Removal,Removal
+Tennessee,Campbell,47013,11293,39,8.1999998,9.1000004,31699,19.719999,Removal,Removal
+Tennessee,Hawkins,47073,9569,24,5.3000002,7.5999999,37164,19.040001,None,None
+Tennessee,Union,47173,10128,,6.3000002,10.6,32533,21.559999,None,None
+Tennessee,Grainger,47057,8944,25,4.8000002,9.1999998,33291,18.450001,None,None
+Tennessee,Hamblen,47063,9639,27,7.0999999,8,38711,19.52,None,None
+Kentucky,Whitley,21235,10870,29,6.9000001,9.5,29813,25.99,Removal,Removal
+Kentucky,Bell,21013,12962,33,7.1999998,9,26911,37.049999,Removal,Removal
+Virginia,Smyth,51173,9877,22,6.4000001,9.1999998,35437,19.190001,None,None
+Virginia,Washington,51191,8955,19,4.0999999,8,39690,14.97,None,None
+Tennessee,Sullivan,47163,9457,19,4.4000001,8.8000002,36337,16.639999,None,None
+Tennessee,Johnson,47091,10214,28,5.5,10.3,29219,23.459999,None,None
+Tennessee,Carter,47019,8657,28,5.5999999,9.3999996,31145,23.5,None,None
+Tennessee,Washington,47179,9028,21,4.9000001,8.8999996,41702,15.71,None,None
+Virginia,Norton City,51720,,,,8.3000002,33662,29.35,None,None
+Virginia,Bristol City,51520,9663,,,9.6999998,33149,22.67,None,None
+Virginia,Grayson,51077,8484,18,3,7.9000001,31930,20.610001,None,None
+Virginia,Galax City,51640,10141,,,6.5,32061,25.469999,None,None
+Tennessee,Wayne,47181,9450,23,4.3000002,7.1999998,32334,19.57,None,None
+Tennessee,Hamilton,47065,8597,17,3.4000001,11.2,44132,13.66,None,None
+Tennessee,Lawrence,47099,9592,24,5,7.5999999,34637,18.98,None,None
+Tennessee,Giles,47055,9075,21,3.8,7.9000001,35466,14.71,None,None
+Tennessee,Moore,47127,5776,,,10.2,45066,7.8899999,None,None
+Tennessee,Franklin,47051,9383,16,3.4000001,8.3999996,40247,14.81,None,None
+Tennessee,Lincoln,47103,9407,22,4.6999998,10.1,41022,15.94,None,None
+Tennessee,Bradley,47011,8452,19,4.6999998,8.1999998,38558,16.559999,None,None
+Tennessee,Marion,47115,10817,29,6.3000002,12,37672,18.15,Traditional,Traditional
+Tennessee,Polk,47139,11000,20,5.6999998,9.8999996,35083,16.4,None,None
+West Virginia,Mason,54053,11016,23,5.0999999,10.4,36279,17.469999,Traditional,Traditional
+Kentucky,Grant,21081,8658,31,6,9.5,42690,18.17,None,None
+Kentucky,Mason,21161,9743,20,3.9000001,9,36795,18.049999,None,None
+Kentucky,Pendleton,21191,10495,,5,9.3000002,43517,17.610001,None,None
+Kentucky,Trimble,21223,7907,20,4.8000002,8.1999998,44533,18.969999,None,None
+Kentucky,Boone,21015,5883,14,3.7,7.3000002,64005,7.1100001,None,None
+Kentucky,Campbell,21037,7449,17,4,8.3999996,47341,13.76,None,None
+Kentucky,Kenton,21117,8113,16,3.7,8.1000004,51049,12.59,None,None
+Kentucky,Carroll,21041,9315,23,4.3000002,7.6999998,42192,25.67,None,None
+Kentucky,Gallatin,21077,9134,,8.8000002,8.6999998,42761,15.09,None,None
+West Virginia,Roane,54087,9813,24,4.8000002,7.4000001,31362,20.860001,None,None
+Kentucky,Bracken,21023,9122,25,4.6999998,8.1999998,42056,19.08,None,None
+West Virginia,Pleasants,54073,6849,14,3.5,9.6999998,40416,15.47,None,None
+West Virginia,Wood,54107,7914,18,5,9.3000002,39456,16.68,None,None
+West Virginia,Ritchie,54085,10089,16,4.1999998,8.6000004,35170,17.049999,None,None
+West Virginia,Wirt,54105,7239,17,2.4000001,8.3999996,36037,18.92,None,None
+West Virginia,Jackson,54035,8940,22,5.6999998,8.3000002,38600,15.56,None,None
+West Virginia,Calhoun,54013,9648,19,3.9000001,7.8000002,29084,18.870001,None,None
+West Virginia,Randolph,54083,8232,23,5.5999999,8.8000002,35176,19.309999,Traditional,Traditional
+Virginia,Fauquier,51061,6390,13,3,6.6999998,83176,6.0799999,None,None
+West Virginia,Pendleton,54071,6943,13,2.5999999,7.6999998,36733,16.360001,None,None
+Virginia,Page,51139,6651,20,3.3,7,37970,18.309999,None,None
+West Virginia,Preston,54077,8917,20,3.8,8.8000002,42529,15.71,Traditional,Traditional
+West Virginia,Mineral,54057,7713,16,4.1999998,10,38629,14.54,Traditional,Traditional
+West Virginia,Berkeley,54003,8658,16,3.8,7.5999999,50923,12.75,None,None
+West Virginia,Tyler,54095,9754,17,2.5999999,10.2,36122,15.9,None,None
+West Virginia,Hampshire,54027,7291,18,3.9000001,7.3000002,33991,20.17,None,None
+West Virginia,Jefferson,54037,7629,16,3.5999999,7,63156,9.7299995,None,None
+West Virginia,Grant,54023,7653,26,5,5.9000001,36487,12.45,Traditional,Traditional
+West Virginia,Gilmer,54021,10471,26,5.6999998,9.6000004,31558,18.889999,Traditional,Traditional
+Virginia,Prince William,51153,5160,14,3.3,7,91290,6.77,None,None
+West Virginia,Braxton,54007,8912,25,5.5,7.4000001,32606,21.790001,Traditional,Traditional
+Virginia,Rappahannock,51157,6508,14,,7.3000002,57499,8.9200001,None,None
+West Virginia,Harrison,54033,8920,17,4.9000001,9,40441,15.39,Traditional,Traditional
+West Virginia,Doddridge,54017,7148,14,3.5,9.3000002,34444,14.96,None,None
+West Virginia,Taylor,54091,7878,25,5.6999998,8.1000004,36846,17.120001,None,None
+West Virginia,Barbour,54001,8740,28,6.3000002,8.1999998,31634,22.969999,Traditional,Traditional
+West Virginia,Tucker,54093,6827,16,4.4000001,7.3000002,33915,14.15,Traditional,Traditional
+West Virginia,Lewis,54041,10076,24,5.6999998,8.3999996,34734,20.9,Traditional,Traditional
+West Virginia,Upshur,54097,8241,21,4.4000001,7.5999999,35893,20.809999,Traditional,Traditional
+West Virginia,Ohio,54069,7872,14,3.8,9.3999996,38997,13.51,Traditional,Traditional
+West Virginia,Marshall,54051,8008,17,4.1999998,8.6999998,37206,15.07,Traditional,Traditional
+West Virginia,Monongalia,54061,6039,15,3.9000001,7.8000002,42247,21.16,Traditional,Traditional
+West Virginia,Wetzel,54103,8213,23,4.5,10.1,36390,23.08,None,None
+West Virginia,Marion,54049,8575,19,4.5,8.6999998,38856,17.02,Traditional,Traditional
+West Virginia,Morgan,54065,9334,22,4.6999998,7.1999998,40636,8.5,None,None
+Virginia,Frederick,51069,6497,11,2.5999999,6.4000001,62173,6.25,None,None
+Virginia,Loudoun,51107,3663,11,2.4000001,7,119075,3.71,None,None
+Virginia,Clarke,51043,4446,14,2.8,6.5,67962,9.9799995,None,None
+West Virginia,Hardy,54031,9050,19,3.9000001,7.5,37002,11.5,None,None
+Virginia,Winchester City,51840,8586,15,3.5,7.9000001,41008,14.97,None,None
+Virginia,Shenandoah,51171,6588,11,3.2,6.6999998,46016,10.84,None,None
+Virginia,Warren,51187,7705,10,3.7,7.0999999,55758,10.4,None,None
+Virginia,Manassas Park City,51685,5455,,,5.8000002,67948,9.6999998,None,None
+Virginia,Manassas City,51683,5893,,2.2,6.8000002,64274,8.6000004,None,None
+West Virginia,Brooke,54009,9158,17,4.6999998,9.1999998,38197,13.58,Traditional,Traditional
+West Virginia,Hancock,54029,9487,17,4.5,7.1999998,38501,13.08,None,None
+Virginia,Fairfax,51059,3759,7,2.3,6.8000002,102726,6.1700001,None,None
+Virginia,Arlington,51013,3749,9,2.5999999,6.4000001,93231,7.1500001,None,None
+Virginia,Falls Church City,51610,7562,,1.3,6.8000002,105124,2.6900001,None,None
+Virginia,Fairfax City,51600,7974,9,2,8,83413,8.7299995,None,None
+Virginia,Alexandria City,51510,5005,10,2.4000001,7.5,78023,10.59,None,None
+Virginia,Rockingham,51165,6059,12,3,7.4000001,49158,9.5500002,None,None
+West Virginia,Webster,54101,9480,28,6.6999998,8.3000002,29083,27.98,Removal,Removal
+West Virginia,Pocahontas,54075,9468,22,4.6999998,9.3000002,31289,16.690001,None,None
+West Virginia,Nicholas,54067,10261,23,5.5,9.8999996,35945,18.34,Removal,Removal
+Virginia,Hanover,51085,5567,9,2.5,7.9000001,72319,5.5799999,None,None
+Virginia,Charlotte,51037,10706,24,4.8000002,10.4,33899,24.08,None,None
+Virginia,Franklin,51067,7828,23,3.7,8.5,40931,16.41,None,None
+Virginia,Isle of Wight,51093,7377,10,2.5999999,8,62224,10.01,None,None
+Virginia,Floyd,51063,8881,15,3.3,6.8000002,44188,11.43,None,None
+Virginia,Lunenburg,51111,9675,24,4.0999999,9.1999998,35260,17.879999,None,None
+Virginia,Sussex,51183,9869,18,4,10.7,37019,17.52,None,None
+Virginia,Pittsylvania,51143,8614,17,3.5999999,9.3000002,41031,15.62,None,None
+Virginia,Halifax,51083,11111,19,4.4000001,11.2,35879,15.11,None,None
+Virginia,Brunswick,51025,9328,17,3.7,11.6,36806,21.42,None,None
+Virginia,Carroll,51035,8280,21,4.6999998,7.3000002,34796,15.04,None,None
+Virginia,Patrick,51141,8180,,6.4000001,7.0999999,33678,18.66,None,None
+Virginia,Henry,51089,10552,26,5,10.3,32669,20.33,None,None
+Virginia,Martinsville City,51690,11845,,2.5999999,9.6000004,29887,25.450001,None,None
+Virginia,Danville City,51590,11394,25,3.4000001,10.4,31153,21.940001,None,None
+Virginia,Greensville,51081,8624,,3.5,13.3,38702,16.66,None,None
+Virginia,Mecklenburg,51117,9775,18,3.9000001,10.4,35196,18.9,None,None
+Virginia,Emporia City,51595,14017,,,14,33255,29.030001,None,None
+Virginia,Culpeper,51047,7521,16,4.1999998,8.3000002,56897,8.1800003,None,None
+Virginia,Augusta,51015,6740,11,2.7,7.4000001,50534,9.2200003,None,None
+West Virginia,Greenbrier,54025,9945,23,4.9000001,9,35456,17.950001,Traditional,Traditional
+Virginia,Rockbridge,51163,7686,10,4.0999999,8.3999996,44502,13.8,None,None
+Virginia,Nelson,51125,7576,7,1.2,7.0999999,47368,12.35,None,None
+Virginia,Fluvanna,51065,6574,8,3.4000001,7.5,63869,4.8899999,None,None
+Virginia,Alleghany,51005,10179,15,3.7,9.8000002,43110,20.23,Traditional,Traditional
+Virginia,Goochland,51075,6347,7,2.5999999,7.4000001,81938,5.3299999,None,None
+West Virginia,Summers,54089,12317,26,6.3000002,9.6000004,29261,22.950001,None,None
+Virginia,Amherst,51009,8366,18,3.3,7.4000001,42063,13.95,None,None
+Virginia,Henrico,51087,6284,10,3.0999999,9.1999998,59128,9.9799995,None,None
+Virginia,Chesterfield,51041,5707,12,2.7,7.9000001,69190,7.0999999,None,None
+Virginia,Giles,51071,8801,20,4.5,7.1999998,40773,11.33,None,None
+Virginia,Campbell,51031,7423,16,4.0999999,7.8000002,42158,11.77,None,None
+Virginia,Dinwiddie,51053,9487,17,3.5,8.8999996,50535,12.8,None,None
+Virginia,Pulaski,51155,10609,23,5.1999998,9.3000002,41184,13.44,None,None
+Virginia,Botetourt,51023,6913,13,4,7.4000001,63528,8,None,None
+West Virginia,Monroe,54063,8757,26,4.5,8.5,34637,16.43,None,None
+Virginia,Craig,51045,6828,19,5.5999999,,44882,8.54,None,None
+Virginia,Bedford,51019,6861,16,4,8,51656,9.1199999,None,None
+Virginia,Lynchburg City,51680,8013,13,3.0999999,8.8000002,36397,21.82,None,None
+Virginia,Roanoke,51161,6012,13,4,7.8000002,57720,7.4000001,None,None
+Virginia,Montgomery,51121,6679,11,3.0999999,7,42827,24.27,None,None
+Virginia,Salem City,51775,7447,11,2.2,6.5,46636,9.1000004,None,None
+Virginia,Radford City,51750,7457,15,5.8000002,7.9000001,34009,35.93,None,None
+Virginia,Covington City,51580,13146,,,8.6000004,33962,15.2,None,None
+Virginia,Lexington City,51678,,,,,41298,21.620001,None,None
+Virginia,Buena Vista City,51530,8507,,,,37629,20.07,None,None
+Virginia,Bedford City,51515,9338,,,5.5,35664,,None,None
+Virginia,Roanoke City,51770,11460,17,3.8,9.8000002,37486,20.52,None,None
+Virginia,Highland,51091,,,,,35793,12.27,None,None
+Virginia,Bath,51017,6951,,,,41266,11.29,None,None
+Virginia,Madison,51113,7331,,5.3000002,6.8000002,49389,8.2700005,None,None
+Virginia,Stafford,51179,5823,12,3.4000001,7.4000001,93185,4.5,None,None
+Virginia,Orange,51137,7071,15,3.3,7.1999998,53837,8.5900002,None,None
+Virginia,Spotsylvania,51177,6222,11,2.5999999,7.5,72463,8.0100002,None,None
+Virginia,Fredericksburg City,51630,10493,24,4.3000002,9.8999996,43460,14.14,None,None
+Virginia,Albemarle,51003,4889,7,2.2,6.6999998,61845,9.7799997,None,None
+Virginia,Louisa,51109,8170,15,4.6999998,9.1000004,50101,12.33,None,None
+Virginia,Staunton City,51790,7821,,,7.1999998,40855,13.68,None,None
+Virginia,Waynesboro City,51820,8523,,,7.1999998,40256,17.41,None,None
+Virginia,Charlottesville City,51540,7751,10,2.9000001,8.6000004,42686,24.629999,None,None
+Virginia,Greene,51079,6995,14,2.9000001,7.5999999,57592,5.9699998,None,None
+Virginia,Harrisonburg City,51660,6596,8,2.2,6.8000002,37179,28.15,None,None
+Virginia,Buckingham,51029,9215,25,4.3000002,10,37568,17.129999,None,None
+Virginia,Cumberland,51049,7319,23,4.8000002,12.1,39394,19.360001,None,None
+Virginia,Powhatan,51145,5648,6,1.6,6.9000001,70025,5.3499999,None,None
+Virginia,Richmond City,51760,12293,15,3.4000001,12.4,39214,24.540001,None,None
+Virginia,Appomattox,51011,7438,9,2.3,8.6999998,44479,13.53,None,None
+Virginia,Amelia,51007,8496,21,4.0999999,7.1999998,49057,13.38,None,None
+Virginia,Prince Edward,51147,10113,11,3,12.8,36100,19.85,None,None
+Virginia,Nottoway,51135,6964,17,3.5,11.7,36975,20.190001,None,None
+Virginia,Colonial Heights City,51570,8453,11,2.9000001,9.3999996,48883,13.47,None,None
+Virginia,Caroline,51033,9190,11,2.2,8.6999998,52779,8.2700005,None,None
+Virginia,Accomack,51001,9090,23,3.7,9.6000004,37312,19.870001,None,None
+Virginia,Northumberland,51133,8254,15,3.5999999,9.1999998,46320,13.92,None,None
+Virginia,King and Queen,51097,8238,,,12.6,44277,16.540001,None,None
+Virginia,King William,51101,7238,18,3.7,8.1999998,64205,10.08,None,None
+Virginia,Lancaster,51103,8437,12,3.4000001,11.9,44296,9.1800003,None,None
+Virginia,Middlesex,51119,8307,,1.8,9.1999998,45686,8.4399996,None,None
+Virginia,Gloucester,51073,7570,14,3.7,7.4000001,58893,8.4700003,None,None
+Virginia,Northampton,51131,10092,21,3.5,9,35308,19.049999,None,None
+Virginia,Mathews,51115,6614,,2.4000001,6.3000002,53418,10.81,None,None
+Virginia,Charles City,51036,6720,,,9.8999996,45916,13.07,None,None
+Virginia,James City,51095,5269,8,3.2,6.8000002,74241,7.7800002,None,None
+Virginia,York,51199,4735,6,2.7,7.3000002,77070,4.6900001,None,None
+Virginia,Newport News City,51700,8078,15,3.4000001,10,49228,15.49,None,None
+Virginia,Prince George,51149,6107,12,3.8,7.8000002,59346,9.2600002,None,None
+Virginia,Hopewell City,51670,10183,21,4.5,9.6999998,37226,20.98,None,None
+Virginia,Williamsburg City,51830,10893,,,11,46285,22.360001,None,None
+Virginia,Surry,51181,8075,16,4.1999998,10.5,46112,12.71,None,None
+Virginia,Petersburg City,51730,14197,16,3.3,13.5,32435,25.76,None,None
+Virginia,New Kent,51127,6165,,2.7,7.1999998,67979,4.8400002,None,None
+Virginia,Poquoson City,51735,6644,,,5.4000001,79229,4.4699998,None,None
+Virginia,Hampton City,51650,7940,12,2.8,9.8000002,50923,15.77,None,None
+Virginia,King George,51099,7118,,3.2,7.6999998,77200,5.6599998,None,None
+Virginia,Westmoreland,51193,11142,20,5,8.8999996,45291,12.05,None,None
+Virginia,Essex,51057,8683,13,2.4000001,10.4,43125,13.69,None,None
+Virginia,Richmond,51159,10093,20,3.5,10.6,40596,14.22,None,None
+Virginia,Southampton,51175,9004,13,2.5,10.4,43232,10.2,None,None
+Virginia,Suffolk City,51800,8174,14,2.7,9.8999996,62419,10.78,None,None
+Virginia,Franklin City,51620,13455,11,2.0999999,13.1,36454,16.24,None,None
+Virginia,Norfolk City,51710,10841,14,3.3,10.8,41015,19.709999,None,None
+Virginia,Virginia Beach City,51810,5848,13,3.3,8.1000004,63354,7.6300001,None,None
+Virginia,Chesapeake City,51550,6758,12,2.8,8.8000002,67674,8.9799995,None,None
