@@ -1,0 +1,16 @@
+Create an RMarkdown file in your sandbox project, using it to generate a html document with an analysis of the EPneighborhood data (github). 
+Specifically, generate a plot of the association between poverty rate (ppov) and mortality rate (mortrate). 
+Provide commentary of each stage and include the code in your html document.
+
+Break down how we’re going to accomplish this:
+1.
+2.
+….
+
+Overcome any unexpected challenges (if there are any). Googling about the error often provides a way forward.
+
+Now add an analysis of the mining data to your html. 
+Specifically, generate a visual comparing the distribution of counties on % reporting only poor/fair health (pfairpoor) 
+by counties’ mining status (minestat or minestatc). Use minestatc in your first visual. Then try minestat in a second visual. 
+Troubleshoot as needed.
+
