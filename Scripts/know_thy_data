@@ -1,0 +1,15 @@
+
+library(Hmisc)     # Provides a describe() function that gives frequencies/proportions for character and factor variables; and mean, percentiles and lowest/highest for numeric
+library(psych)    # for describe() and describeBy()
+library(DataExplorer)   # creates a report
+
+View(mydata)      # View the actual dataset
+tibble(mydata)    # Shows variable names, type, and first ten rows of data (similar to head)
+glimpse(mydata)   # Shows classification of variables (as rows) and values (maybe be helpful if there are a lot of variables)
+str(mydata)       # Structure of the dataset
+names(mydata)     # list of variable names in dataset
+head(mydata)      # Variable names/types (dbl, chr, fct) and first 6 rows of data
+tail(mydata)      # Variable names/types and last 6 rows of data
+class(mydata)     # Will give classification for any object or vector
+class(mydata$var) # Will show how variable is classified
+DataExplorer::create_report(mydata)    # Will create a report (in a html page) that includes basic statistis (counts, %s, data structure, missing data profile, etc.)
