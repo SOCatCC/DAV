@@ -1,0 +1,66 @@
+library(tidyverse)
+library(hrbrthemes)
+library(gghighlight)
+
+
+smoke <- read.csv("https://raw.githubusercontent.com/SOCatCC/DAV/main/soldcigsperadult.csv")
+tibble(smoke)  # Can see that the "null" entries are a problem (should be na and cigs should be numeric)
+
+# I need to change the null entries to NA -- easiest to do with mutate and na_if
+smoke <- smoke %>%
+  mutate(cigs = na_if(cigs, "null"))
+
+# I need to convert cigs to numeric and country to factor
+smoke$cigs <- as.numeric(smoke$cigs)
+smoke$country <- as.factor(smoke$country)
+tibble(smoke)
+
+
+# Since I'll want the highlighted lines to be slightly larger, I'll create a dichotomous sizing variable for the line plots
+smoke <- smoke %>%
+  mutate(highlighted = ifelse(country %in% c("United States", "France", "Germany"), "highlighted", "not"))
+tibble(smoke)
+
+
+# These work!!!!! using gghighlight package.
+# In this first one I just do a pretty basic plot to see how it works with the gghighlight function.
+
+ggplot(data = smoke, aes(x = year, y = cigs, group = country, color = country, size = highlighted)) +
+  geom_line() +
+  gghighlight(country %in% c("United States", "France", "Germany"), use_direct_label = FALSE) +
+  scale_color_brewer(palette = "RdPu") +
+  theme_light()
+
+
+# Now I can go about refining the plot. Some tasks:
+# Size the lines using size = and later scale_size_manual.
+# Change the colors to match the original plot using the scale_color_manual(values = c())
+# Alter the axis lines, plot background, and ticks within theme()
+# Get rid of the legend within theme()
+# set the axis ticks/range to the same as the original plot using scale_x_continuous etc.
+# add labels to match the original plot. 
+# use annotate() to add specific labels within the plot and specify their location.
+
+ggplot(data = smoke, aes(x = year, y = cigs, group = country, color = country, size = highlighted)) +
+  geom_line() +
+  gghighlight(country %in% c("United States", "France", "Germany"), use_direct_label = FALSE) +
+  scale_color_manual(values = c("cornflowerblue", "dodgerblue4", "red4")) +
+  scale_size_manual(values = c(0.9, 0.4)) +
+  theme_bw() +
+  theme(axis.line = element_line(color = "darkgrey"), 
+        plot.background = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.grid.major.x = element_blank(),
+        panel.border = element_blank(),
+        legend.position = "none",
+        plot.title = element_text(face = "bold", size = 16),
+        plot.caption = element_text(hjust = 0)) +
+  scale_x_continuous(breaks = seq(1880, 2010, 10), limits = c(1880, 2010)) +
+  scale_y_continuous(breaks = seq(0, 10, 2), limits = c(0, 11)) +
+  labs(title = "The rise and fall of cigarette consumption in developed\ncountries", 
+       subtitle = "Sales of cigarettes per adult per day, in selected countries. Figures include manufactured\ncigarettes, as well as an estimated number of hand-rolled cigarettes, per adult (ages 15+)\nper day.",
+       x = "", y = "", caption = "Source: National statistics, via Our World in Data * Get the data via link above") +
+  annotate("text", label = "sold cigarettes\nper day per adult", x = -Inf, y = Inf, hjust = -.1, vjust = 2) +
+  annotate("text", x = 1925, y = 5, label = "United\nStates", color = "red4", fontface = "bold") +
+  annotate("text", x = 1948, y = 1, label = "France", color = "cornflowerblue", fontface = "bold") +
+  annotate("text", x = 1959, y = 3.5, label = "Germany", color = "dodgerblue4", fontface = "bold")
