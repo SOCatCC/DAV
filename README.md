@@ -1,7 +1,8 @@
-**Using R for Social Science Research**
+#Data Analysis and Visualization
+##Data and Script Repository
 
+###Additional Data:
+[NYTimes' Covid19 github site] (https://github.com/nytimes/covid-19-data)
 
-Here's the link to NYTimes' Covid19 github site:
-https://github.com/nytimes/covid-19-data
 
 
