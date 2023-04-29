@@ -1,8 +1,2 @@
 # Data Analysis and Visualization
-This site serves as a repository for my SO290 Data Analysis and Visualization course at Colorado College.
-
-### Additional Data:
-[NYTimes' Covid19 github site](https://github.com/nytimes/covid-19-data)
-
-
-
+This site serves as a repository for SO290 Data Analysis and Visualization course at Colorado College.
