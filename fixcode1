@@ -1,0 +1,47 @@
+# Preliminaries...Loading data and the tidyverse packages (there are no errors in the preliminaries)
+csdata <- read.csv("https://raw.githubusercontent.com/SOCatCC/DAV/main/Data/EPneighborhood/EPneighborhood.csv")
+View(csdata)
+
+redla <- read.csv("https://raw.githubusercontent.com/SOCatCC/DAV/main/Data/Redlining_LA/LosAngelesRed.csv")
+View(redla)
+
+library(tidyverse)
+library(hrbrthemes)
+
+
+# 1 -- What's wrong (can be multiple things)? What lessons are learned?
+
+ggplot (data = csdata, aes(x = ppov y = mortrat)) +
+  geom_point() +
+  labs(title = Mortality Rate Against Poverty Rate, 
+       x = Poverty Rate,
+       y = Mortality Rate)
+
+
+
+# 2 What's wrong? What lessons are learned?
+
+ggplot(data = csdata, aes(x = ppov, y = mortrate, color = blue)) +
+  geom_point()
+
+
+
+# 3 These two bits of code work together. What's wrong? What lessons are learned?
+
+p1 <- ggplot(data = csdata) +
+  geom_point(aes(x = ppov, y = mortrate))
+
+
+p1 + geom_smooth(method = "lm")
+
+
+
+# 4 What's wrong? What lessons are learned?
+
+ggplot(data = redla, aes(x = grade, y = ppov)) +
+  geom_boxplot(fill = Grade))
+
+
+
+# 5 Can you figure out how to calculate a Pearson's r correlation coefficient for #1 above 
+# and include that information in a caption? Include the code below.
