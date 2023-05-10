@@ -1,0 +1,147 @@
+
+
+######################################
+### Manipulating Colors and Labels ###
+######################################
+
+#####################
+### Preliminaries ###
+#####################
+
+library(tidyverse)
+library(viridis)
+
+
+###################################################
+### Color or fill set to a categorical variable ###
+###################################################
+
+### Two choices: set the color/fill manually or use existing palettes.###
+
+### Setting the color manually for a 4-category variable. ###
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = catvar)) +
+	geom_point() +
+	scale_color_manual(values = c("red", "green", "blue", "purple"))
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, fill = catvar)) +
+	geom_point() +
+	scale_fill_manual(values = c("red", "green", "blue", "purple"))
+
+
+### Using existing palettes for a categorical variable. ###
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, fill = catvar)) +
+	geom_boxplot() +
+	scale_fill_viridis_d()	# the d stands for discrete; color-blind friendly
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = catvar)) +
+	geom_point() +
+	scale_color_brewer(palette = "Set1")    
+
+# for alternative palettes see: https://r-graph-gallery.com/38-rcolorbrewers-palettes.html #
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = catvar)) +
+	geom_point() +
+	scale_color_brewer(palette = "Set1")
+
+
+
+#######################################
+### Color set to a numeric variable ###
+#######################################
+
+### Setting a low/high color for colors set to low/high ###
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = numvar)) +
+	geom_point() +
+	scale_color_gradient(low = "blue", high = "red")
+
+### Or: scale_color_continuous(low = "blue", high = "red")
+
+
+### Using existing palettes for a numeric color ramp
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = numvar)) +
+	geom_point() +
+	scale_color_viridis_c()	# the c stands for continuous; color-blind friendly
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = numvar)) +
+	geom_point() +
+	scale_color_viridis_c(direction = -1)	# easy color ramp flip with viridis
+
+
+####################################################################
+### Options if you have color/fill set to a categorical variable ###
+### viridis options are color blind friendly			 ###
+### viridis requires library(viridis)				 ###
+### My favorite viridis options are viridis and cividis. 	 ###
+####################################################################
+
+scale_fill_manual(values = c("__", "____", "___", "____"))
+scale_color_manual(values = c("__", "____", "___", "____"))
+scale_color_brewer(palette = "Set1")	# look up palette options
+scale_fill_brewer(palette = "___")
+scale_fill_discrete()
+scale_color_discrete()
+scale_color_viridis_d()		
+scale_fill_viridis_d()
+
+###########################################################
+### Options if you have color set to a numeric variable ###
+### viridis allows for easy ramp flip (direction = -1)  ###
+###########################################################
+
+scale_color_continuous(low = "blue, high = "red")
+scale_color_gradient(low = "blue", high = "red")
+scale_color_viridis_c()	
+scale_color_viridis_c(direction = -1)
+
+###############################
+### Viridis palette options ###
+###############################
+
+scale_color_viridis_c(option = "E")
+scale_color_viridis_c(option = "cividis")
+
+# A = magma
+# B = inferno
+# C = plasma
+# D = viridis
+# E = cividis
+# F = rocket
+# G = mako
+# H = turbo
+
+
+################################################################################
+### Editing labels (adjusting size, type, color of titles/axis labels, etc.) ###
+################################################################################
+
+ggplot(data = mydata, aes(x = xvar, y = yvar)) +
+	geom_boxplot() +
+	labs(title = "Title of plot", 
+		x = "x-axis label", 
+		y = "y-axis label", 
+		caption = "caption stuff") +
+	theme_ipsum() +
+	theme(plot.title = element_text(size = 14, face = "bold"),
+		axis.title.x = element_text(size = 12),
+		axis.title.y = element_text(size = 12),
+		plot.caption = element_text(size = 10, face = "italic"))
+
+
+### Editing the legend (created whenever you set color, shape, or size) ###
+
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = numvar)) +
+	geom_boxplot() +
+	labs(color = "legend title") +
+	theme_ipsum()
+	
+ggplot(data = mydata, aes(x = xvar, y = yvar, color = numvar)) +
+	geom_boxplot() +
+	theme_ipsum() +
+	theme(legend.position = "none")  # can also do bottom, top, etc. 
+
+
+
