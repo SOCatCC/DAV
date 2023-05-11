@@ -1,0 +1,46 @@
+
+######################
+## Knowing thy data ##
+######################
+
+View(mydata)		# hold cursor over variable
+glimpse(mydata)   	# Shows classification of variables 
+tibble(mydata)    	# Shows variable names, type, and first ten rows of data 
+str(mydata)       	# Structure of the dataset
+names(mydata)     	# list of variable names in dataset
+head(mydata)      	# Variable names/types (dbl, chr, fct) and first 6 rows of data
+tail(mydata)      	# Variable names/types and last 6 rows of data
+class(mydata)     	# Will give classification for any object or vector
+class(mydata$var) 	# Will show how variable is classified
+
+library(Hmisc)  	# Provides a describe() function that gives frequencies/proportions 
+				# for character/factor variables; and mean, percentiles, 
+				# lowest/highest for numeric
+library(psych)    	# for describe() and describeBy()
+library(DataExplorer)   # creates a report
+
+
+
+
+##############################################
+## Exploring Data with DataExplorer package ##
+##############################################
+
+# install.packages("DataExplorer")
+library(DataExplorer)
+# Note: there are various functions within DataExplorer, including:
+# create_report() 	# comprehensive report; pops up in an html
+# plot_intro()
+# plot_missing()
+# plot_density()
+# plot_histogram()
+# plot_bar()
+# plot_correlation()
+
+# You'll typically use this/these in conjuction with the select function. E.g.,
+
+mydata %>%
+	select(var1, var2, var3, var4) %>%
+	create_report() 	# or any of the individual DataExplorer functions.
+
+
