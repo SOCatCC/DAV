@@ -1,0 +1,80 @@
+
+###############################
+### Using statebins package ###
+###############################
+
+# Sometimes you want to produce a map of U.S. states
+# but you don't want the size of the states to influence
+# the viewer's takeaways; you want the focus on the 
+# plotted values instead. 
+# That's where state bins come into play, as each
+# state is afforded an equal sized bin and they are 
+# generally located where they are geographically.
+
+# Importantly, when using the statebins package, there
+# are two ways it can be used. 1) You can use the statebins()
+# function in lieu of ggplot (there are some departures from
+# ggplot's structure), or 2) You can use ggplot and the 
+# geom_statebins() layer. Both are illustrated below.
+
+
+### Importing and prepping state-level data ###
+
+# In the example used in class, we brought in the State_LBW data
+# in the state_data folder on github. This data is ugly -- multiple
+# years for each state; includes city and territory in addition to 
+# states, etc. Here's how we sysematically prepped (filtered) the
+# data so that we ended up with just 50 states, just percent values, 
+# and just 2020 data.
+
+StateLBW <- read_csv("https://raw.githubusercontent.com/SOCatCC/DAV/main/Data/state_data/StateLBW.csv")
+
+View(StateLBW)
+glimpse(StateLBW)
+
+statelbwsmall <- StateLBW %>%
+  filter(LocationType == "State" & TimeFrame == 2020 & DataFormat == "Percent")
+
+glimpse(statelbwsmall)
+
+View(statelbwsmall)
+
+
+# We still need to clone the Data column and convert it to a whole
+# % numeric value in the process. 
+
+statelbwsmall <- statelbwsmall %>%
+	mutate(plbw = as.numeric(Data)*100)
+
+View(statelbwsmall)
+
+# Our data are now ready to go. 
+
+
+### Option 1 -- Using the statebins function ###
+
+statebins(state_data = statelbwsmall,
+	state_col = "Location",
+	value_col = "plbw",
+	font_size = 3) +
+	scale_fill_viridis_c(option = "cividis") +
+	labs(title = "something something",
+		caption = "Data Source: Kids Count") +
+	theme_statebins(legend_position = "bottom")
+
+# The code above is a bit different from ggplot but not a lot.
+# It also produces nicely squared bins.
+
+
+### Option 2 -- Using ggplot and geom_statebins() ###
+
+# This is more familiar code for us.
+
+ggplot(data = statelbwsmall, aes(state = Location, fill = plbw)) +
+  geom_statebins() +
+  coord_equal() +
+  scale_fill_viridis_c(option = "cividis") +
+  labs(title = "State bins with ggplot2", 
+       caption = "Data Source: Kids Count", 
+       fill = "% LBW") +
+  theme_void()

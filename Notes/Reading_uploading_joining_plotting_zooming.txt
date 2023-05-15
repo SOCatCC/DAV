@@ -1,0 +1,103 @@
+###########################################
+### Reading/Uploading shapefiles into R ###
+###########################################
+
+### There are two main approaches:
+# 1) Using tigris package to read boundary files from the 
+#    Census Bureau directly into R (e.g., tracts, counties, states, etc.)
+
+# 2) Uploading a zipped folder containing your shapefile. 
+
+### Option 1 -- Using the tigris package ###
+
+# The tigris package allows you to directly read in boundary files 
+# generated/maintained by the Census Bureau. The command requires 
+# that you identify the desired boundaries (e.g., tracts) and limiting 
+# criteria (e.g., which state, county, etc.). 
+
+library(tigris)  # install if not already installed
+
+library(sf)  # install if not already installed
+
+library(tidyverse)
+
+# Example command reading in tracts for El Paso County, CO using tigris
+
+eptrcts <- tracts(state = "CO", 
+	county = "El Paso", 
+	cb = TRUE, 
+	year = 2019, 
+	progress_bar = FALSE)
+
+ggplot(data = eptrcts, aes()) + 
+	geom_sf() + 
+	theme_bw()
+
+### Option 2: Uploading a zipped shapefile ###
+
+library(sf)
+
+# Download the zipped shapefile to your own computer. No need to unzip.
+# In RStudio Cloud, click on "Upload" -- "Choose file" in the bottom 
+# right panel. Select your zipped shapefile. It will unzip automatically 
+# as it is uploaded.
+# You then need to read the shapefile into your project 
+# **Replace shapefilename with whatever the shapefile is called. 
+# Here is an example relating to the El Paso County neighborhood shapefile.
+
+epneishape <- read_sf(dsn = ".", layer = "shapefilename")  
+
+ggplot(data = epneishape, aes()) +
+	geom_sf() + 
+	theme_bw()
+
+# These get your shapefile(s) up and running. You will need to join data 
+# to them using dplyr's left_join() function.
+
+######################################
+### Joining data to your shapefile ###
+######################################
+
+# You would either read in a .csv file from github or upload it
+# View or glimpse both your .csv data and your shapefile.
+# You want to see if the common variable are in the same format
+# and what their names are.
+# If you need to transform, Base R is the simplest approach. E.g.,
+
+shapefilename$geoid2 <- as.numeric(shapefilename$GEOID)
+
+# Now you're ready to join using dplyr's left_join() function.
+# You'll give the new joined data a name (as you assign it to an object).
+# You'll need to specify first the shapefile, then csv file, and then
+# the two variables that pair up with one another. 
+
+joined <- left_join(shapefile, csvfile, by = c("geoid2" = "FIPS"))
+
+glimpse(joined)
+
+####################################################
+### Plotting your map with sf package and ggplot ###
+####################################################
+
+# You may need/want to rename a variable. It's easiest to use Base R
+# and simply clone a variable.
+
+joined$bettername <- joined$originaluglyname
+
+ggplot(data = joined, aes(fill = numvar)) +
+	geom_sf() +
+	theme_bw()
+
+################################################
+### Zooming in by setting coordinates limits ###
+################################################
+
+# By examining the coordinates from the basic map (theme_bw()),
+# you can identify coordinates that you can use to zoom in.
+# Note: you will have to put a - sign in front of the xlim values.
+
+ggplot(data = joined, aes(fill = numver)) +
+	geom_sf() +
+	coord_sf(xlim = c(-104.9, -104.65),
+		ylim = c(38.72, 38.95)) +
+	theme_void()
