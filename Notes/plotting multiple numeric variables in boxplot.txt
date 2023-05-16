@@ -1,0 +1,46 @@
+### Plotting multiple numerical variables in a boxplot ###
+
+If you have found yourself wanting to include multiple numeric variables in a 
+boxplot (e.g., ppov, platinx, pblacknh -- all over HOLC grade), here's how one 
+can approach it. Note, you'd only do this if those numeric variables shared the 
+same scale (e.g., all percentage variables). One way to do this is to transform 
+your data from wide (the structure we're most familiar with, where each column 
+is a variable and each row a case) to long (where each case is represented by 
+multiple rows consisting of the different variables and their values). You can 
+see what long data looks like by using the last chunk of code below.
+
+There's a package called reshape2 that has a melt() function that allows us 
+to transform the data from wide to long.
+
+Here's an example on my redlining data (redlinela). You'll notice that the code 
+starts by selecting out the relevant variables (racial composition variables that 
+share the same % scale and the categorical variable Grade). After selecting those 
+variables out, it passes the (temporarily) smaller data set to the melt function, 
+where Grade is used as the id.var. That long format data is then passed through 
+to the ggplot command (where data is not specified, so as to not overwrite the 
+smaller long format data that has been passed to it. The value and variable are 
+used in the command because those are the names R gives to the new columns during 
+the process of melting.  Value is what is given to the percent values in this case 
+and variable is given to the column containing PLATINX, PPOV, and PBLACKNH. If you 
+want to see what the long format data looks like, see the second chunk of code. 
+
+# This first chunk of codes temporarily transforms some of the original data 
+into long format without creating a new object.
+
+redlinela %>%
+  select(Grade, PLATINX, PPOV, PBLACKNH) %>%
+  reshape2::melt(id.vars = "Grade") %>%
+  ggplot(aes(x = Grade, y = value, fill = variable)) +
+  geom_boxplot()
+
+ 
+
+# To view the long form data that the above creates temporarily, you can 
+generate an object containing the data set.
+
+red_long <- redlinela %>%
+  select(Grade, PLATINX, PPOV, PBLACKNH) %>%
+  reshape2::melt(id.vars = "Grade")
+View(red_long)
+
+ 
