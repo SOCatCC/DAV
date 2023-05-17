@@ -1,0 +1,1453 @@
+country,year,cigs
+Austria,1875,null
+Austria,1880,null
+Austria,1885,null
+Austria,1890,null
+Austria,1895,null
+Austria,1900,null
+Austria,1901,null
+Austria,1902,null
+Austria,1903,null
+Austria,1904,null
+Austria,1905,null
+Austria,1906,null
+Austria,1907,null
+Austria,1908,null
+Austria,1909,null
+Austria,1910,null
+Austria,1911,null
+Austria,1912,null
+Austria,1913,null
+Austria,1914,null
+Austria,1915,null
+Austria,1916,null
+Austria,1917,null
+Austria,1918,null
+Austria,1919,null
+Austria,1920,null
+Austria,1921,null
+Austria,1922,null
+Austria,1923,2.5
+Austria,1924,2.9
+Austria,1925,2.9
+Austria,1926,3.1
+Austria,1927,3.3
+Austria,1928,3.4
+Austria,1929,3.5
+Austria,1930,3.5
+Austria,1931,3.3
+Austria,1932,3.4
+Austria,1933,3
+Austria,1934,2.9
+Austria,1935,2.9
+Austria,1936,2.9
+Austria,1937,2.8
+Austria,1938,3.2
+Austria,1939,4
+Austria,1940,5
+Austria,1941,5.8
+Austria,1942,5.3
+Austria,1943,5.3
+Austria,1944,4.2
+Austria,1945,1.6
+Austria,1946,1.1
+Austria,1947,1.6
+Austria,1948,2
+Austria,1949,2.5
+Austria,1950,3
+Austria,1951,3.5
+Austria,1952,3.7
+Austria,1953,3.8
+Austria,1954,3.3
+Austria,1955,3.7
+Austria,1956,4.1
+Austria,1957,4.3
+Austria,1958,4.6
+Austria,1959,4.7
+Austria,1960,4.8
+Austria,1961,4.7
+Austria,1962,4.9
+Austria,1963,5.1
+Austria,1964,5.2
+Austria,1965,5.4
+Austria,1966,5.8
+Austria,1967,5.9
+Austria,1968,6
+Austria,1969,6.2
+Austria,1970,6.5
+Austria,1971,6.6
+Austria,1972,6.5
+Austria,1973,7
+Austria,1974,6.9
+Austria,1975,6.6
+Austria,1976,6.8
+Austria,1977,6.9
+Austria,1978,7
+Austria,1979,7.2
+Austria,1980,7.1
+Austria,1981,7.1
+Austria,1982,7
+Austria,1983,7.2
+Austria,1984,7
+Austria,1985,7
+Austria,1986,7
+Austria,1987,6.8
+Austria,1988,6.4
+Austria,1989,6.2
+Austria,1990,6.3
+Austria,1991,6.4
+Austria,1992,6.1
+Austria,1993,5.8
+Austria,1994,5.9
+Austria,1995,5.6
+Austria,1996,5.4
+Austria,1997,5.7
+Austria,1998,6.4
+Austria,1999,6.6
+Austria,2000,6.5
+Austria,2001,6.3
+Austria,2002,4.8
+Austria,2003,4.6
+Austria,2004,4.6
+Austria,2005,null
+Austria,2006,null
+Austria,2007,null
+Austria,2008,null
+Austria,2009,null
+Austria,2010,null
+Austria,2011,null
+Austria,2012,null
+Austria,2013,null
+Austria,2014,null
+Austria,2015,null
+Canada,1875,null
+Canada,1880,null
+Canada,1885,null
+Canada,1890,null
+Canada,1895,null
+Canada,1900,null
+Canada,1901,null
+Canada,1902,null
+Canada,1903,null
+Canada,1904,null
+Canada,1905,null
+Canada,1906,null
+Canada,1907,null
+Canada,1908,null
+Canada,1909,null
+Canada,1910,null
+Canada,1911,null
+Canada,1912,null
+Canada,1913,null
+Canada,1914,null
+Canada,1915,null
+Canada,1916,null
+Canada,1917,null
+Canada,1918,null
+Canada,1919,null
+Canada,1920,1
+Canada,1921,1.1
+Canada,1922,0.9
+Canada,1923,1
+Canada,1924,1.1
+Canada,1925,1.2
+Canada,1926,1.4
+Canada,1927,1.6
+Canada,1928,1.8
+Canada,1929,2.1
+Canada,1930,2
+Canada,1931,1.7
+Canada,1932,1.4
+Canada,1933,1.6
+Canada,1934,1.8
+Canada,1935,1.9
+Canada,1936,2
+Canada,1937,2.3
+Canada,1938,2.4
+Canada,1939,2.4
+Canada,1940,2.6
+Canada,1941,2.9
+Canada,1942,3.3
+Canada,1943,3.6
+Canada,1944,3.7
+Canada,1945,4.5
+Canada,1946,4.7
+Canada,1947,4.7
+Canada,1948,4.8
+Canada,1949,4.9
+Canada,1950,4.9
+Canada,1951,4.4
+Canada,1952,4.9
+Canada,1953,5.7
+Canada,1954,5.8
+Canada,1955,8.6
+Canada,1956,8.8
+Canada,1957,9.3
+Canada,1958,9.7
+Canada,1959,9.9
+Canada,1960,9.8
+Canada,1961,10.2
+Canada,1962,10.5
+Canada,1963,10.5
+Canada,1964,10.4
+Canada,1965,10.7
+Canada,1966,10.8
+Canada,1967,10.6
+Canada,1968,10.3
+Canada,1969,10.1
+Canada,1970,10.5
+Canada,1971,10.5
+Canada,1972,10.6
+Canada,1973,10.8
+Canada,1974,10.7
+Canada,1975,10.6
+Canada,1976,10.9
+Canada,1977,10.7
+Canada,1978,10.4
+Canada,1979,10.5
+Canada,1980,10.3
+Canada,1981,10.3
+Canada,1982,10.4
+Canada,1983,9.7
+Canada,1984,9.6
+Canada,1985,9.1
+Canada,1986,8.7
+Canada,1987,8.3
+Canada,1988,8
+Canada,1989,7.3
+Canada,1990,7
+Canada,1991,6.3
+Canada,1992,6.4
+Canada,1993,6
+Canada,1994,6.6
+Canada,1995,5.9
+Canada,1996,6.2
+Canada,1997,5.8
+Canada,1998,5.8
+Canada,1999,5.7
+Canada,2000,5.3
+Canada,2001,5
+Canada,2002,4.4
+Canada,2003,4.2
+Canada,2004,4
+Canada,2005,3.7
+Canada,2006,3.4
+Canada,2007,3.2
+Canada,2008,3
+Canada,2009,3.1
+Canada,2010,3.5
+Canada,2011,null
+Canada,2012,null
+Canada,2013,null
+Canada,2014,null
+Canada,2015,null
+France,1875,0.1
+France,1880,0.1
+France,1885,0.1
+France,1890,0.1
+France,1895,0.1
+France,1900,0.2
+France,1901,0.2
+France,1902,0.2
+France,1903,0.2
+France,1904,0.2
+France,1905,0.2
+France,1906,0.2
+France,1907,0.3
+France,1908,0.3
+France,1909,0.3
+France,1910,0.3
+France,1911,null
+France,1912,null
+France,1913,0.4
+France,1914,null
+France,1915,null
+France,1916,null
+France,1917,null
+France,1918,null
+France,1919,null
+France,1920,null
+France,1921,null
+France,1922,null
+France,1923,0.7
+France,1924,0.9
+France,1925,null
+France,1926,null
+France,1927,null
+France,1928,null
+France,1929,null
+France,1930,null
+France,1931,null
+France,1932,1.6
+France,1933,1.6
+France,1934,1.5
+France,1935,1.4
+France,1936,1.5
+France,1937,1.6
+France,1938,1.6
+France,1939,1.8
+France,1940,1.7
+France,1941,1.4
+France,1942,1
+France,1943,0.9
+France,1944,0.8
+France,1945,1.2
+France,1946,1.6
+France,1947,2.1
+France,1948,2.3
+France,1949,2.4
+France,1950,4.4
+France,1951,4.4
+France,1952,4.5
+France,1953,4.4
+France,1954,4.5
+France,1955,4.6
+France,1956,4.8
+France,1957,5.1
+France,1958,5.2
+France,1959,4.9
+France,1960,5
+France,1961,5
+France,1962,5.1
+France,1963,5.1
+France,1964,5.1
+France,1965,5.3
+France,1966,5.3
+France,1967,5.6
+France,1968,5.6
+France,1969,5.6
+France,1970,5.8
+France,1971,5.9
+France,1972,5.7
+France,1973,5.9
+France,1974,6.1
+France,1975,6.3
+France,1976,6.1
+France,1977,6.3
+France,1978,6.1
+France,1979,6.2
+France,1980,6.1
+France,1981,6
+France,1982,6
+France,1983,6.1
+France,1984,6.1
+France,1985,6.4
+France,1986,6.2
+France,1987,6.1
+France,1988,6
+France,1989,6
+France,1990,5.9
+France,1991,6
+France,1992,5.9
+France,1993,5.7
+France,1994,5.6
+France,1995,5.4
+France,1996,5.4
+France,1997,5.2
+France,1998,5.2
+France,1999,5.2
+France,2000,5.1
+France,2001,5.2
+France,2002,4.9
+France,2003,4.3
+France,2004,3.5
+France,2005,3.5
+France,2006,3.5
+France,2007,3.5
+France,2008,3.4
+France,2009,3.5
+France,2010,3.5
+France,2011,null
+France,2012,null
+France,2013,null
+France,2014,null
+France,2015,null
+Germany,1875,null
+Germany,1880,null
+Germany,1885,null
+Germany,1890,null
+Germany,1895,null
+Germany,1900,null
+Germany,1901,null
+Germany,1902,null
+Germany,1903,null
+Germany,1904,null
+Germany,1905,null
+Germany,1906,0.2
+Germany,1907,0.3
+Germany,1908,0.4
+Germany,1909,0.4
+Germany,1910,0.5
+Germany,1911,0.6
+Germany,1912,0.7
+Germany,1913,0.7
+Germany,1914,null
+Germany,1915,null
+Germany,1916,null
+Germany,1917,null
+Germany,1918,null
+Germany,1919,null
+Germany,1920,null
+Germany,1921,null
+Germany,1922,null
+Germany,1923,null
+Germany,1924,null
+Germany,1925,1.7
+Germany,1926,1.6
+Germany,1927,1.8
+Germany,1928,1.8
+Germany,1929,1.8
+Germany,1930,1.6
+Germany,1931,1.5
+Germany,1932,2.3
+Germany,1933,2.3
+Germany,1934,2.5
+Germany,1935,2.5
+Germany,1936,2.6
+Germany,1937,2.8
+Germany,1938,3.2
+Germany,1939,null
+Germany,1940,null
+Germany,1941,null
+Germany,1942,null
+Germany,1943,null
+Germany,1944,null
+Germany,1945,null
+Germany,1946,null
+Germany,1947,null
+Germany,1948,null
+Germany,1949,null
+Germany,1950,2.7
+Germany,1951,3.1
+Germany,1952,3.1
+Germany,1953,3.3
+Germany,1954,3.5
+Germany,1955,3.8
+Germany,1956,4
+Germany,1957,4.4
+Germany,1958,4.4
+Germany,1959,4.7
+Germany,1960,5.1
+Germany,1961,5.4
+Germany,1962,5.3
+Germany,1963,5.4
+Germany,1964,5.7
+Germany,1965,6
+Germany,1966,6.2
+Germany,1967,6.1
+Germany,1968,6.5
+Germany,1969,6.8
+Germany,1970,7.1
+Germany,1971,7.5
+Germany,1972,7.5
+Germany,1973,7.3
+Germany,1974,7.5
+Germany,1975,7.3
+Germany,1976,7.6
+Germany,1977,7
+Germany,1978,7.3
+Germany,1979,7.4
+Germany,1980,7.5
+Germany,1981,7.6
+Germany,1982,6.9
+Germany,1983,7.2
+Germany,1984,7.1
+Germany,1985,7.2
+Germany,1986,7
+Germany,1987,7
+Germany,1988,6.9
+Germany,1989,7
+Germany,1990,null
+Germany,1991,6.6
+Germany,1992,6.1
+Germany,1993,5.9
+Germany,1994,6
+Germany,1995,6
+Germany,1996,6
+Germany,1997,6.1
+Germany,1998,6.1
+Germany,1999,6.4
+Germany,2000,6.1
+Germany,2001,6.2
+Germany,2002,6.3
+Germany,2003,5.9
+Germany,2004,5.2
+Germany,2005,5
+Germany,2006,4.5
+Germany,2007,4.4
+Germany,2008,4.2
+Germany,2009,4.3
+Germany,2010,4.2
+Germany,2011,4.4
+Germany,2012,4.2
+Germany,2013,4.1
+Germany,2014,4.1
+Germany,2015,4.2
+Japan,1875,null
+Japan,1880,null
+Japan,1885,null
+Japan,1890,null
+Japan,1895,null
+Japan,1900,null
+Japan,1901,null
+Japan,1902,null
+Japan,1903,null
+Japan,1904,null
+Japan,1905,null
+Japan,1906,null
+Japan,1907,null
+Japan,1908,null
+Japan,1909,null
+Japan,1910,null
+Japan,1911,null
+Japan,1912,null
+Japan,1913,null
+Japan,1914,null
+Japan,1915,null
+Japan,1916,null
+Japan,1917,null
+Japan,1918,null
+Japan,1919,null
+Japan,1920,1.6
+Japan,1921,1.7
+Japan,1922,1.8
+Japan,1923,2
+Japan,1924,2.1
+Japan,1925,2
+Japan,1926,2
+Japan,1927,2.1
+Japan,1928,2.2
+Japan,1929,2.2
+Japan,1930,2
+Japan,1931,2
+Japan,1932,2.1
+Japan,1933,2.2
+Japan,1934,2.3
+Japan,1935,2.4
+Japan,1936,2.4
+Japan,1937,2.5
+Japan,1938,2.5
+Japan,1939,2.9
+Japan,1940,3.1
+Japan,1941,3.1
+Japan,1942,3.2
+Japan,1943,3.2
+Japan,1944,2.7
+Japan,1945,0.9
+Japan,1946,0.9
+Japan,1947,1
+Japan,1948,1.9
+Japan,1949,2.8
+Japan,1950,3.3
+Japan,1951,3.7
+Japan,1952,3.9
+Japan,1953,4.3
+Japan,1954,4.5
+Japan,1955,4.5
+Japan,1956,4.4
+Japan,1957,4.5
+Japan,1958,4.6
+Japan,1959,4.8
+Japan,1960,5.1
+Japan,1961,5.6
+Japan,1962,5.7
+Japan,1963,5.9
+Japan,1964,6.2
+Japan,1965,6.4
+Japan,1966,6.7
+Japan,1967,7
+Japan,1968,7
+Japan,1969,7.5
+Japan,1970,7.8
+Japan,1971,8.2
+Japan,1972,8.6
+Japan,1973,8.9
+Japan,1974,9.5
+Japan,1975,9.5
+Japan,1976,9.4
+Japan,1977,9.7
+Japan,1978,9.6
+Japan,1979,9.6
+Japan,1980,9.4
+Japan,1981,9.5
+Japan,1982,9.4
+Japan,1983,9.3
+Japan,1984,9.2
+Japan,1985,9
+Japan,1986,8.8
+Japan,1987,8.7
+Japan,1988,8.6
+Japan,1989,8.6
+Japan,1990,8.8
+Japan,1991,8.9
+Japan,1992,8.8
+Japan,1993,8.8
+Japan,1994,8.8
+Japan,1995,8.8
+Japan,1996,9.1
+Japan,1997,8.5
+Japan,1998,8.7
+Japan,1999,8.5
+Japan,2000,8.3
+Japan,2001,8.1
+Japan,2002,7.9
+Japan,2003,7.6
+Japan,2004,7.4
+Japan,2005,7.2
+Japan,2006,6.8
+Japan,2007,6.5
+Japan,2008,6.2
+Japan,2009,5.9
+Japan,2010,5.3
+Japan,2011,4.9
+Japan,2012,4.9
+Japan,2013,4.9
+Japan,2014,4.5
+Japan,2015,4.6
+Netherlands,1875,null
+Netherlands,1880,null
+Netherlands,1885,null
+Netherlands,1890,null
+Netherlands,1895,null
+Netherlands,1900,null
+Netherlands,1901,null
+Netherlands,1902,null
+Netherlands,1903,null
+Netherlands,1904,null
+Netherlands,1905,null
+Netherlands,1906,null
+Netherlands,1907,null
+Netherlands,1908,null
+Netherlands,1909,null
+Netherlands,1910,null
+Netherlands,1911,null
+Netherlands,1912,null
+Netherlands,1913,null
+Netherlands,1914,null
+Netherlands,1915,null
+Netherlands,1916,null
+Netherlands,1917,null
+Netherlands,1918,null
+Netherlands,1919,null
+Netherlands,1920,null
+Netherlands,1921,null
+Netherlands,1922,null
+Netherlands,1923,1.1
+Netherlands,1924,1.4
+Netherlands,1925,1.1
+Netherlands,1926,1.3
+Netherlands,1927,1.4
+Netherlands,1928,1.4
+Netherlands,1929,1.6
+Netherlands,1930,1.8
+Netherlands,1931,1.7
+Netherlands,1932,1.8
+Netherlands,1933,1.9
+Netherlands,1934,1.8
+Netherlands,1935,1.9
+Netherlands,1936,1.8
+Netherlands,1937,1.9
+Netherlands,1938,2.1
+Netherlands,1939,2.3
+Netherlands,1940,null
+Netherlands,1941,null
+Netherlands,1942,null
+Netherlands,1943,null
+Netherlands,1944,null
+Netherlands,1945,null
+Netherlands,1946,1.4
+Netherlands,1947,2.2
+Netherlands,1948,2.1
+Netherlands,1949,2.4
+Netherlands,1950,3.1
+Netherlands,1951,3.2
+Netherlands,1952,3.6
+Netherlands,1953,3.8
+Netherlands,1954,4.2
+Netherlands,1955,4.3
+Netherlands,1956,4.7
+Netherlands,1957,4.8
+Netherlands,1958,4.6
+Netherlands,1959,4.6
+Netherlands,1960,7.3
+Netherlands,1961,7.5
+Netherlands,1962,7.4
+Netherlands,1963,7.6
+Netherlands,1964,6.9
+Netherlands,1965,8.4
+Netherlands,1966,6.8
+Netherlands,1967,7.7
+Netherlands,1968,8.4
+Netherlands,1969,7.7
+Netherlands,1970,8.3
+Netherlands,1971,8.4
+Netherlands,1972,9.2
+Netherlands,1973,9.7
+Netherlands,1974,9.9
+Netherlands,1975,9.9
+Netherlands,1976,9.6
+Netherlands,1977,10.8
+Netherlands,1978,9.7
+Netherlands,1979,10.4
+Netherlands,1980,9.2
+Netherlands,1981,8.8
+Netherlands,1982,9.1
+Netherlands,1983,9.8
+Netherlands,1984,8
+Netherlands,1985,8
+Netherlands,1986,7.9
+Netherlands,1987,7.6
+Netherlands,1988,7.5
+Netherlands,1989,7.5
+Netherlands,1990,7.6
+Netherlands,1991,8
+Netherlands,1992,7.3
+Netherlands,1993,6.6
+Netherlands,1994,6.8
+Netherlands,1995,6.8
+Netherlands,1996,6.2
+Netherlands,1997,6.5
+Netherlands,1998,6.6
+Netherlands,1999,6.4
+Netherlands,2000,6.4
+Netherlands,2001,6
+Netherlands,2002,6.3
+Netherlands,2003,6.2
+Netherlands,2004,5.6
+Netherlands,2005,5.1
+Netherlands,2006,5.1
+Netherlands,2007,5.3
+Netherlands,2008,5.1
+Netherlands,2009,4.6
+Netherlands,2010,4.5
+Netherlands,2011,1.5
+Netherlands,2012,1.5
+Netherlands,2013,null
+Netherlands,2014,null
+Netherlands,2015,null
+New Zealand,1875,null
+New Zealand,1880,null
+New Zealand,1885,null
+New Zealand,1890,null
+New Zealand,1895,null
+New Zealand,1900,null
+New Zealand,1901,null
+New Zealand,1902,null
+New Zealand,1903,null
+New Zealand,1904,null
+New Zealand,1905,null
+New Zealand,1906,null
+New Zealand,1907,null
+New Zealand,1908,null
+New Zealand,1909,null
+New Zealand,1910,null
+New Zealand,1911,null
+New Zealand,1912,null
+New Zealand,1913,null
+New Zealand,1914,null
+New Zealand,1915,null
+New Zealand,1916,null
+New Zealand,1917,null
+New Zealand,1918,null
+New Zealand,1919,null
+New Zealand,1920,1.6
+New Zealand,1921,1.2
+New Zealand,1922,1.3
+New Zealand,1923,1.5
+New Zealand,1924,1.6
+New Zealand,1925,1.8
+New Zealand,1926,1.8
+New Zealand,1927,1.8
+New Zealand,1928,1.8
+New Zealand,1929,1.9
+New Zealand,1930,1.6
+New Zealand,1931,1.2
+New Zealand,1932,1
+New Zealand,1933,1
+New Zealand,1934,1.1
+New Zealand,1935,1.4
+New Zealand,1936,1.7
+New Zealand,1937,1.9
+New Zealand,1938,2.1
+New Zealand,1939,2.1
+New Zealand,1940,1.9
+New Zealand,1941,2
+New Zealand,1942,2.3
+New Zealand,1943,2.3
+New Zealand,1944,2.5
+New Zealand,1945,2.6
+New Zealand,1946,3.4
+New Zealand,1947,4.3
+New Zealand,1948,3.4
+New Zealand,1949,3.4
+New Zealand,1950,7.6
+New Zealand,1951,8
+New Zealand,1952,7.7
+New Zealand,1953,7.7
+New Zealand,1954,8
+New Zealand,1955,8.2
+New Zealand,1956,7.7
+New Zealand,1957,8.1
+New Zealand,1958,7.5
+New Zealand,1959,7.3
+New Zealand,1960,8.2
+New Zealand,1961,8.2
+New Zealand,1962,8.1
+New Zealand,1963,8.4
+New Zealand,1964,8.2
+New Zealand,1965,8.1
+New Zealand,1966,8.6
+New Zealand,1967,8.3
+New Zealand,1968,8.2
+New Zealand,1969,8.2
+New Zealand,1970,8.3
+New Zealand,1971,8.2
+New Zealand,1972,8.3
+New Zealand,1973,8.3
+New Zealand,1974,8.3
+New Zealand,1975,8.6
+New Zealand,1976,8.4
+New Zealand,1977,8.5
+New Zealand,1978,8.3
+New Zealand,1979,7.9
+New Zealand,1980,7.7
+New Zealand,1981,7.8
+New Zealand,1982,7.6
+New Zealand,1983,7.5
+New Zealand,1984,7.5
+New Zealand,1985,6.7
+New Zealand,1986,6.2
+New Zealand,1987,6.2
+New Zealand,1988,6.3
+New Zealand,1989,5.1
+New Zealand,1990,5.3
+New Zealand,1991,4.7
+New Zealand,1992,4.2
+New Zealand,1993,4.2
+New Zealand,1994,4
+New Zealand,1995,4
+New Zealand,1996,4.2
+New Zealand,1997,4.1
+New Zealand,1998,4
+New Zealand,1999,3.8
+New Zealand,2000,3.9
+New Zealand,2001,3.4
+New Zealand,2002,3.5
+New Zealand,2003,3.1
+New Zealand,2004,3.1
+New Zealand,2005,3.3
+New Zealand,2006,3.2
+New Zealand,2007,3.2
+New Zealand,2008,3.3
+New Zealand,2009,3.1
+New Zealand,2010,null
+New Zealand,2011,null
+New Zealand,2012,null
+New Zealand,2013,null
+New Zealand,2014,null
+New Zealand,2015,null
+Spain,1875,null
+Spain,1880,null
+Spain,1885,null
+Spain,1890,null
+Spain,1895,null
+Spain,1900,null
+Spain,1901,null
+Spain,1902,null
+Spain,1903,null
+Spain,1904,null
+Spain,1905,null
+Spain,1906,null
+Spain,1907,null
+Spain,1908,null
+Spain,1909,null
+Spain,1910,null
+Spain,1911,null
+Spain,1912,null
+Spain,1913,null
+Spain,1914,null
+Spain,1915,null
+Spain,1916,null
+Spain,1917,null
+Spain,1918,null
+Spain,1919,null
+Spain,1920,1
+Spain,1921,1
+Spain,1922,1.1
+Spain,1923,1.2
+Spain,1924,1.1
+Spain,1925,1
+Spain,1926,0.9
+Spain,1927,1
+Spain,1928,1.2
+Spain,1929,1.3
+Spain,1930,1.4
+Spain,1931,1.3
+Spain,1932,1.4
+Spain,1933,1.3
+Spain,1934,1.2
+Spain,1935,1.1
+Spain,1936,null
+Spain,1937,null
+Spain,1938,null
+Spain,1939,null
+Spain,1940,1
+Spain,1941,1.1
+Spain,1942,1.1
+Spain,1943,1.3
+Spain,1944,1.3
+Spain,1945,1.3
+Spain,1946,1.4
+Spain,1947,1.5
+Spain,1948,1.3
+Spain,1949,1.4
+Spain,1950,1.2
+Spain,1951,1.3
+Spain,1952,1.5
+Spain,1953,1.7
+Spain,1954,1.8
+Spain,1955,2
+Spain,1956,1.9
+Spain,1957,3.8
+Spain,1958,4.3
+Spain,1959,4.2
+Spain,1960,4.2
+Spain,1961,4.5
+Spain,1962,4.6
+Spain,1963,4.7
+Spain,1964,4.9
+Spain,1965,5.3
+Spain,1966,5.4
+Spain,1967,5.6
+Spain,1968,5.7
+Spain,1969,5.7
+Spain,1970,5.8
+Spain,1971,5.9
+Spain,1972,6.1
+Spain,1973,6.4
+Spain,1974,6.8
+Spain,1975,6.4
+Spain,1976,6.7
+Spain,1977,7
+Spain,1978,6.5
+Spain,1979,7.2
+Spain,1980,7
+Spain,1981,6.4
+Spain,1982,6.7
+Spain,1983,6.7
+Spain,1984,6.9
+Spain,1985,7.3
+Spain,1986,7.1
+Spain,1987,7.2
+Spain,1988,6.9
+Spain,1989,7
+Spain,1990,7.2
+Spain,1991,7.3
+Spain,1992,6.9
+Spain,1993,6.3
+Spain,1994,6.8
+Spain,1995,6.3
+Spain,1996,6
+Spain,1997,6.6
+Spain,1998,7.3
+Spain,1999,7.1
+Spain,2000,7.1
+Spain,2001,7.2
+Spain,2002,7.1
+Spain,2003,7.1
+Spain,2004,7.2
+Spain,2005,7
+Spain,2006,6.8
+Spain,2007,6.6
+Spain,2008,6.7
+Spain,2009,6.1
+Spain,2010,5.5
+Spain,2011,null
+Spain,2012,null
+Spain,2013,null
+Spain,2014,null
+Spain,2015,null
+Sweden,1875,null
+Sweden,1880,null
+Sweden,1885,null
+Sweden,1890,null
+Sweden,1895,null
+Sweden,1900,null
+Sweden,1901,null
+Sweden,1902,null
+Sweden,1903,null
+Sweden,1904,null
+Sweden,1905,null
+Sweden,1906,null
+Sweden,1907,null
+Sweden,1908,null
+Sweden,1909,null
+Sweden,1910,null
+Sweden,1911,null
+Sweden,1912,null
+Sweden,1913,null
+Sweden,1914,null
+Sweden,1915,null
+Sweden,1916,null
+Sweden,1917,null
+Sweden,1918,null
+Sweden,1919,null
+Sweden,1920,1
+Sweden,1921,0.9
+Sweden,1922,0.7
+Sweden,1923,0.7
+Sweden,1924,0.7
+Sweden,1925,0.7
+Sweden,1926,0.7
+Sweden,1927,0.8
+Sweden,1928,0.9
+Sweden,1929,1
+Sweden,1930,1.1
+Sweden,1931,1.2
+Sweden,1932,1.2
+Sweden,1933,1.1
+Sweden,1934,1.1
+Sweden,1935,1
+Sweden,1936,1
+Sweden,1937,1
+Sweden,1938,1
+Sweden,1939,1.1
+Sweden,1940,1.1
+Sweden,1941,1.2
+Sweden,1942,1.2
+Sweden,1943,1.2
+Sweden,1944,1.2
+Sweden,1945,1.3
+Sweden,1946,1.6
+Sweden,1947,1.9
+Sweden,1948,2
+Sweden,1949,2
+Sweden,1950,2.5
+Sweden,1951,2.5
+Sweden,1952,2.9
+Sweden,1953,2.9
+Sweden,1954,2.9
+Sweden,1955,3
+Sweden,1956,3.1
+Sweden,1957,3.2
+Sweden,1958,3.2
+Sweden,1959,3.3
+Sweden,1960,3.5
+Sweden,1961,3.7
+Sweden,1962,3.8
+Sweden,1963,3.9
+Sweden,1964,3.9
+Sweden,1965,4
+Sweden,1966,4.2
+Sweden,1967,4.2
+Sweden,1968,4.5
+Sweden,1969,4.7
+Sweden,1970,4.7
+Sweden,1971,4.6
+Sweden,1972,5.1
+Sweden,1973,4.2
+Sweden,1974,4.9
+Sweden,1975,5.1
+Sweden,1976,5.2
+Sweden,1977,4.9
+Sweden,1978,5.1
+Sweden,1979,5.1
+Sweden,1980,5.1
+Sweden,1981,4.9
+Sweden,1982,5.1
+Sweden,1983,4.9
+Sweden,1984,5
+Sweden,1985,4.9
+Sweden,1986,4.8
+Sweden,1987,4.7
+Sweden,1988,4.7
+Sweden,1989,4.6
+Sweden,1990,4.5
+Sweden,1991,4.5
+Sweden,1992,4.6
+Sweden,1993,3.8
+Sweden,1994,3.6
+Sweden,1995,3.4
+Sweden,1996,3.5
+Sweden,1997,2.6
+Sweden,1998,2.5
+Sweden,1999,2.8
+Sweden,2000,2.9
+Sweden,2001,2.9
+Sweden,2002,3
+Sweden,2003,2.9
+Sweden,2004,2.8
+Sweden,2005,2.7
+Sweden,2006,2.6
+Sweden,2007,null
+Sweden,2008,null
+Sweden,2009,null
+Sweden,2010,null
+Sweden,2011,null
+Sweden,2012,null
+Sweden,2013,null
+Sweden,2014,null
+Sweden,2015,null
+Switzerland,1875,null
+Switzerland,1880,null
+Switzerland,1885,null
+Switzerland,1890,null
+Switzerland,1895,null
+Switzerland,1900,null
+Switzerland,1901,null
+Switzerland,1902,null
+Switzerland,1903,null
+Switzerland,1904,null
+Switzerland,1905,null
+Switzerland,1906,null
+Switzerland,1907,null
+Switzerland,1908,null
+Switzerland,1909,null
+Switzerland,1910,null
+Switzerland,1911,null
+Switzerland,1912,null
+Switzerland,1913,null
+Switzerland,1914,null
+Switzerland,1915,null
+Switzerland,1916,null
+Switzerland,1917,null
+Switzerland,1918,null
+Switzerland,1919,null
+Switzerland,1920,null
+Switzerland,1921,null
+Switzerland,1922,null
+Switzerland,1923,null
+Switzerland,1924,null
+Switzerland,1925,null
+Switzerland,1926,null
+Switzerland,1927,null
+Switzerland,1928,null
+Switzerland,1929,null
+Switzerland,1930,null
+Switzerland,1931,null
+Switzerland,1932,null
+Switzerland,1933,null
+Switzerland,1934,1.5
+Switzerland,1935,1.5
+Switzerland,1936,1.5
+Switzerland,1937,1.5
+Switzerland,1938,1.9
+Switzerland,1939,1.9
+Switzerland,1940,1.9
+Switzerland,1941,2.3
+Switzerland,1942,2.2
+Switzerland,1943,2.6
+Switzerland,1944,2.8
+Switzerland,1945,3.2
+Switzerland,1946,3.5
+Switzerland,1947,4
+Switzerland,1948,3.9
+Switzerland,1949,4
+Switzerland,1950,4.1
+Switzerland,1951,4.3
+Switzerland,1952,4.7
+Switzerland,1953,4.6
+Switzerland,1954,4.6
+Switzerland,1955,4.8
+Switzerland,1956,5.1
+Switzerland,1957,5.3
+Switzerland,1958,5.8
+Switzerland,1959,5.9
+Switzerland,1960,6.6
+Switzerland,1961,7.2
+Switzerland,1962,7.6
+Switzerland,1963,7.6
+Switzerland,1964,7.2
+Switzerland,1965,8.5
+Switzerland,1966,6.7
+Switzerland,1967,7.7
+Switzerland,1968,8.1
+Switzerland,1969,9
+Switzerland,1970,9.5
+Switzerland,1971,10.3
+Switzerland,1972,10.7
+Switzerland,1973,9.3
+Switzerland,1974,9.2
+Switzerland,1975,8.6
+Switzerland,1976,8.5
+Switzerland,1977,8.8
+Switzerland,1978,8.5
+Switzerland,1979,8.2
+Switzerland,1980,8.3
+Switzerland,1981,8.4
+Switzerland,1982,8.4
+Switzerland,1983,8.5
+Switzerland,1984,8.4
+Switzerland,1985,8.1
+Switzerland,1986,8.1
+Switzerland,1987,8
+Switzerland,1988,7.9
+Switzerland,1989,7.9
+Switzerland,1990,7.8
+Switzerland,1991,7.8
+Switzerland,1992,8.2
+Switzerland,1993,7.6
+Switzerland,1994,7.4
+Switzerland,1995,7.3
+Switzerland,1996,7.2
+Switzerland,1997,7
+Switzerland,1998,7.1
+Switzerland,1999,6.8
+Switzerland,2000,6.7
+Switzerland,2001,6.5
+Switzerland,2002,6.5
+Switzerland,2003,6.6
+Switzerland,2004,6.4
+Switzerland,2005,5.7
+Switzerland,2006,5.8
+Switzerland,2007,5.4
+Switzerland,2008,5.7
+Switzerland,2009,5.6
+Switzerland,2010,null
+Switzerland,2011,null
+Switzerland,2012,null
+Switzerland,2013,null
+Switzerland,2014,null
+Switzerland,2015,null
+United Kingdom,1875,null
+United Kingdom,1880,null
+United Kingdom,1885,null
+United Kingdom,1890,null
+United Kingdom,1895,null
+United Kingdom,1900,null
+United Kingdom,1901,null
+United Kingdom,1902,null
+United Kingdom,1903,null
+United Kingdom,1904,null
+United Kingdom,1905,1.1
+United Kingdom,1906,1.1
+United Kingdom,1907,1.2
+United Kingdom,1908,1.3
+United Kingdom,1909,1.3
+United Kingdom,1910,1.4
+United Kingdom,1911,1.6
+United Kingdom,1912,1.7
+United Kingdom,1913,1.8
+United Kingdom,1914,1.9
+United Kingdom,1915,2.2
+United Kingdom,1916,2.1
+United Kingdom,1917,2.2
+United Kingdom,1918,2.3
+United Kingdom,1919,3.1
+United Kingdom,1920,3
+United Kingdom,1921,2.8
+United Kingdom,1922,2.7
+United Kingdom,1923,2.7
+United Kingdom,1924,2.8
+United Kingdom,1925,3
+United Kingdom,1926,3
+United Kingdom,1927,3.2
+United Kingdom,1928,3.5
+United Kingdom,1929,3.7
+United Kingdom,1930,3.9
+United Kingdom,1931,3.9
+United Kingdom,1932,4.1
+United Kingdom,1933,4.2
+United Kingdom,1934,4.4
+United Kingdom,1935,4.7
+United Kingdom,1936,4.9
+United Kingdom,1937,5.2
+United Kingdom,1938,5.5
+United Kingdom,1939,5.7
+United Kingdom,1940,5.6
+United Kingdom,1941,6.2
+United Kingdom,1942,6.5
+United Kingdom,1943,6.5
+United Kingdom,1944,6.5
+United Kingdom,1945,7.2
+United Kingdom,1946,7.6
+United Kingdom,1947,6.7
+United Kingdom,1948,6.5
+United Kingdom,1949,6.4
+United Kingdom,1950,6.5
+United Kingdom,1951,6.8
+United Kingdom,1952,7
+United Kingdom,1953,7
+United Kingdom,1954,7.3
+United Kingdom,1955,7.5
+United Kingdom,1956,7.5
+United Kingdom,1957,7.7
+United Kingdom,1958,7.8
+United Kingdom,1959,8
+United Kingdom,1960,8.3
+United Kingdom,1961,8.4
+United Kingdom,1962,8.1
+United Kingdom,1963,8.3
+United Kingdom,1964,8.3
+United Kingdom,1965,8.1
+United Kingdom,1966,8.4
+United Kingdom,1967,8.5
+United Kingdom,1968,8.6
+United Kingdom,1969,8.8
+United Kingdom,1970,9
+United Kingdom,1971,8.5
+United Kingdom,1972,9.1
+United Kingdom,1973,9.5
+United Kingdom,1974,9.4
+United Kingdom,1975,9.2
+United Kingdom,1976,9
+United Kingdom,1977,8.7
+United Kingdom,1978,8.6
+United Kingdom,1979,8.4
+United Kingdom,1980,8.1
+United Kingdom,1981,7.5
+United Kingdom,1982,6.9
+United Kingdom,1983,6.9
+United Kingdom,1984,6.6
+United Kingdom,1985,6.5
+United Kingdom,1986,6.3
+United Kingdom,1987,6.3
+United Kingdom,1988,6.2
+United Kingdom,1989,6.3
+United Kingdom,1990,6.5
+United Kingdom,1991,6.2
+United Kingdom,1992,5.9
+United Kingdom,1993,5.7
+United Kingdom,1994,5.6
+United Kingdom,1995,5.7
+United Kingdom,1996,5.7
+United Kingdom,1997,5.6
+United Kingdom,1998,5.6
+United Kingdom,1999,5.8
+United Kingdom,2000,5.7
+United Kingdom,2001,5.6
+United Kingdom,2002,5.5
+United Kingdom,2003,5.4
+United Kingdom,2004,5.2
+United Kingdom,2005,5.1
+United Kingdom,2006,4.9
+United Kingdom,2007,4.7
+United Kingdom,2008,4.5
+United Kingdom,2009,4.3
+United Kingdom,2010,4
+United Kingdom,2011,3.5
+United Kingdom,2012,3.4
+United Kingdom,2013,3.2
+United Kingdom,2014,3
+United Kingdom,2015,null
+United States,1875,null
+United States,1880,null
+United States,1885,null
+United States,1890,null
+United States,1895,null
+United States,1900,0.1
+United States,1901,0.1
+United States,1902,0.1
+United States,1903,0.1
+United States,1904,0.2
+United States,1905,0.2
+United States,1906,0.2
+United States,1907,0.2
+United States,1908,0.2
+United States,1909,0.3
+United States,1910,0.4
+United States,1911,0.4
+United States,1912,0.5
+United States,1913,0.6
+United States,1914,0.6
+United States,1915,0.7
+United States,1916,1
+United States,1917,1.4
+United States,1918,1.7
+United States,1919,1.8
+United States,1920,1.7
+United States,1921,1.9
+United States,1922,1.9
+United States,1923,2.3
+United States,1924,2.5
+United States,1925,2.7
+United States,1926,3
+United States,1927,3.8
+United States,1928,4
+United States,1929,4.3
+United States,1930,4.3
+United States,1931,4.3
+United States,1932,4.4
+United States,1933,4.8
+United States,1934,5.3
+United States,1935,5.7
+United States,1936,6
+United States,1937,6
+United States,1938,6.1
+United States,1939,6.3
+United States,1940,6.5
+United States,1941,6.8
+United States,1942,7.4
+United States,1943,7.8
+United States,1944,7
+United States,1945,8.1
+United States,1946,8.9
+United States,1947,9.1
+United States,1948,9.3
+United States,1949,9.3
+United States,1950,9.3
+United States,1951,9.8
+United States,1952,10
+United States,1953,9.7
+United States,1954,9.2
+United States,1955,9.4
+United States,1956,9.4
+United States,1957,9.7
+United States,1958,10.2
+United States,1959,10.5
+United States,1960,10.7
+United States,1961,11
+United States,1962,10.9
+United States,1963,11
+United States,1964,10.6
+United States,1965,10.7
+United States,1966,10.7
+United States,1967,10.7
+United States,1968,10.4
+United States,1969,10
+United States,1970,10.2
+United States,1971,9.9
+United States,1972,10.2
+United States,1973,10.7
+United States,1974,10.6
+United States,1975,10.4
+United States,1976,10.3
+United States,1977,10.2
+United States,1978,10
+United States,1979,9.9
+United States,1980,9.9
+United States,1981,9.9
+United States,1982,9.7
+United States,1983,9.1
+United States,1984,9
+United States,1985,8.8
+United States,1986,8.6
+United States,1987,8.3
+United States,1988,8.1
+United States,1989,7.6
+United States,1990,7.4
+United States,1991,7.1
+United States,1992,6.9
+United States,1993,6.6
+United States,1994,6.6
+United States,1995,6.5
+United States,1996,6.4
+United States,1997,6.3
+United States,1998,6
+United States,1999,5.7
+United States,2000,5.4
+United States,2001,5.3
+United States,2002,5.1
+United States,2003,4.9
+United States,2004,4.7
+United States,2005,4.5
+United States,2006,4.5
+United States,2007,4.2
+United States,2008,4
+United States,2009,3.7
+United States,2010,3.6
+United States,2011,3.5
+United States,2012,3.5
+United States,2013,3.3
+United States,2014,3.2
+United States,2015,null
