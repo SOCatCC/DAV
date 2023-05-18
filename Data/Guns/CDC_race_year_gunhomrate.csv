@@ -1,0 +1,89 @@
+Race,Year,Deaths,Population,homrate,adjhomrate
+American Indian or Alaska Native,1999,105,2832761,3.7,3.6
+American Indian or Alaska Native,2000,87,2984150,2.9,2.7
+American Indian or Alaska Native,2001,87,3097333,2.8,2.6
+American Indian or Alaska Native,2002,117,3202471,3.7,3.3
+American Indian or Alaska Native,2003,109,3312011,3.3,3
+American Indian or Alaska Native,2004,104,3429452,3,2.8
+American Indian or Alaska Native,2005,118,3554356,3.3,2.9
+American Indian or Alaska Native,2006,120,3687683,3.3,3
+American Indian or Alaska Native,2007,91,3829898,2.4,2.2
+American Indian or Alaska Native,2008,98,3983929,2.5,2.3
+American Indian or Alaska Native,2009,113,4141215,2.7,2.7
+American Indian or Alaska Native,2010,113,4263538,2.7,2.5
+American Indian or Alaska Native,2011,105,4347413,2.4,2.4
+American Indian or Alaska Native,2012,109,4398436,2.5,2.3
+American Indian or Alaska Native,2013,107,4457934,2.4,2.4
+American Indian or Alaska Native,2014,127,4518981,2.8,2.8
+American Indian or Alaska Native,2015,148,4577853,3.2,3.1
+American Indian or Alaska Native,2016,178,4630155,3.8,3.8
+American Indian or Alaska Native,2017,149,4689047,3.2,3
+American Indian or Alaska Native,2018,202,4739288,4.3,4.2
+American Indian or Alaska Native,2019,197,4785203,4.1,4.1
+American Indian or Alaska Native,2020,251,4899485,5.1,5.1
+Asian or Pacific Islander,1999,230,11346496,2,1.9
+Asian or Pacific Islander,2000,211,11757685,1.8,1.7
+Asian or Pacific Islander,2001,190,12429181,1.5,1.4
+Asian or Pacific Islander,2002,243,12953763,1.9,1.8
+Asian or Pacific Islander,2003,241,13461109,1.8,1.7
+Asian or Pacific Islander,2004,201,13967014,1.4,1.4
+Asian or Pacific Islander,2005,266,14494417,1.8,1.7
+Asian or Pacific Islander,2006,280,15029851,1.9,1.7
+Asian or Pacific Islander,2007,201,15559373,1.3,1.2
+Asian or Pacific Islander,2008,208,16094699,1.3,1.2
+Asian or Pacific Islander,2009,216,16609031,1.3,1.2
+Asian or Pacific Islander,2010,168,16993326,1,0.9
+Asian or Pacific Islander,2011,195,17471358,1.1,1.1
+Asian or Pacific Islander,2012,210,18087959,1.2,1.1
+Asian or Pacific Islander,2013,175,18630136,0.9,0.9
+Asian or Pacific Islander,2014,171,19398214,0.9,0.8
+Asian or Pacific Islander,2015,203,20102717,1,0.9
+Asian or Pacific Islander,2016,243,20487524,1.2,1.1
+Asian or Pacific Islander,2017,205,21210673,1,0.9
+Asian or Pacific Islander,2018,235,21601064,1.1,1
+Asian or Pacific Islander,2019,245,21814724,1.1,1.1
+Asian or Pacific Islander,2020,250,22413737,1.1,1.1
+Black or African American,1999,5588,36173121,15.4,14.4
+Black or African American,2000,5709,36594309,15.6,14.6
+Black or African American,2001,5898,37249775,15.8,14.8
+Black or African American,2002,6294,37748424,16.7,15.6
+Black or African American,2003,6410,38209741,16.8,15.7
+Black or African American,2004,6210,38738798,16,15.1
+Black or African American,2005,6718,39280731,17.1,16.1
+Black or African American,2006,7126,39857107,17.9,16.7
+Black or African American,2007,6967,40451108,17.2,16.2
+Black or African American,2008,6579,41048959,16,15.1
+Black or African American,2009,6227,41632450,15,14.1
+Black or African American,2010,6155,42065334,14.6,13.8
+Black or African American,2011,6174,42678815,14.5,13.7
+Black or African American,2012,6618,43203092,15.3,14.6
+Black or African American,2013,6449,43696271,14.8,14.1
+Black or African American,2014,6330,44309394,14.3,13.7
+Black or African American,2015,7625,44863196,17,16.3
+Black or African American,2016,8440,45307020,18.6,18
+Black or African American,2017,8513,45883808,18.6,18
+Black or African American,2018,8105,46262846,17.5,17
+Black or African American,2019,8625,46599393,18.5,18
+Black or African American,2020,12061,47181245,25.6,25
+White,1999,4939,228687790,2.2,2.2
+White,2000,4820,230085762,2.1,2.1
+White,2001,5198,232192666,2.2,2.2
+White,2002,5201,233720535,2.2,2.2
+White,2003,5190,235125072,2.2,2.2
+White,2004,5131,236670034,2.2,2.2
+White,2005,5276,238187095,2.2,2.3
+White,2006,5287,239805271,2.2,2.2
+White,2007,5393,241390828,2.2,2.3
+White,2008,5317,242966379,2.2,2.3
+White,2009,4962,244388833,2,2.1
+White,2010,4653,245423340,1.9,1.9
+White,2011,4610,247094331,1.9,1.9
+White,2012,4706,248224553,1.9,2
+White,2013,4501,249344498,1.8,1.9
+White,2014,4394,250630467,1.8,1.8
+White,2015,5031,251875054,2,2.1
+White,2016,5572,252702814,2.2,2.3
+White,2017,5695,253935650,2.2,2.3
+White,2018,5434,254564236,2.1,2.2
+White,2019,5380,255040203,2.1,2.2
+White,2020,6847,254989656,2.7,2.9
